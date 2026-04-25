@@ -1,4 +1,4 @@
-[Impressum](/impressum/)
+[Impressum](/impressum.md/)
 
 ## Warum Engagement ohne Parteien nicht reicht ##
 *13.04.2026 @ Magdeburg*
