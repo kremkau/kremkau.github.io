@@ -1,16 +1,33 @@
 # Blog von Tobias Kremkau
 
-## Besuch des Westfriedhofs ##
-05.04.2026 @ Magdeburg
+## Warum Engagement ohne Parteien nicht reicht ##
+*13.04.2026 @ Magdeburg*
 
-<img width="800" height="1067" alt="Informationstafel" src="https://github.com/user-attachments/assets/4b10d6bc-d09a-4c45-8a55-18ab11d4a518" />
+Viele Menschen engagieren sich derzeit mit beeindruckender Energie in demokratische Projekte – weit seltener jedoch in demokratische Parteien. Dafür gibt es durchaus nachvollziehbare Gründe. Parteien gelten allgemein als schwer zugänglich, ihre Entscheidungswege als komplex, manches, was _von oben_ kommt, bleibt selbst für Engagierte vor Ort nicht immer transparent.
 
-Gestern waren wir am Ehrenhain der Opfer des Faschismus auf dem Magdeburg Westfriedhof. Es war kein spontaner Spaziergang, sondern ein bewusster Besuch: Wir wollten die Gräber meines Urgroßvaters und meiner Urgroßmutter aufsuchen.
+Und dennoch: Wir leben in einer parlamentarischen Demokratie. Politische Initiativen, zivilgesellschaftliches Engagement und Bewegungen können Debatten anstoßen, Druck erzeugen und Perspektiven verschieben. Doch die konkrete Umsetzung politischer Vorhaben – also das Organisieren von Mehrheiten, das Verabschieden von Gesetzen, das Gestalten von Regierungspolitik – erfolgt nach wie vor maßgeblich über Parteien. Wer sie strukturell schwächt, schwächt damit auch die zentralen Instrumente demokratischer Gestaltung.
 
-Beide waren anerkannte Widerstandskämpfer gegen den Nationalsozialismus. Dass sie heute an diesem Ort begraben sind, ist Ausdruck dieser Geschichte – und zugleich eine leise, aber deutliche Erinnerung daran, dass Widerstand nicht abstrakt ist, sondern immer von konkreten Menschen ausgeht. Menschen mit Biografien, mit Entscheidungen, mit Konsequenzen.
+Gleichzeitig wäre es verkürzt, Engagement außerhalb von Parteien als bloße Konkurrenz zu begreifen. Im Gegenteil: Oft sind es gerade Bewegungen und Projekte, die Themen setzen, Parteien herausfordern und sie inhaltlich voranbringen. Demokratische Erneuerung entsteht im Zusammenspiel – nicht im Gegeneinander. Weder Parteien allein noch zivilgesellschaftliche Initiativen für sich genommen reichen aus, um nachhaltige Veränderungen zu bewirken.
 
-Der Ehrenhain selbst ist ein besonderer Ort. Er zwingt einen fast automatisch dazu, innezuhalten. Zwischen den Gräbern wird Geschichte greifbar – nicht als etwas Fernes aus Schulbüchern, sondern als Teil der eigenen Familie, der eigenen Herkunft. Gerade in Zeiten, in denen politische Debatten wieder rauer werden und historische Bezüge allzu oft verkürzt oder instrumentalisiert werden, haben solche Orte eine eigene Klarheit.
+Gerade deshalb erscheint es mir aber als sehr sinnvoll, auch dort Verantwortung zu übernehmen, wo politische Entscheidungen tatsächlich getroffen werden. Politik beginnt für die meisten Menschen vor der eigenen Haustür – und sie bleibt auch dann wirksam, wenn man bereit ist, Spannungen und Widersprüche innerhalb von Parteien auszuhalten. Diese Auseinandersetzungen sind kein Zeichen von Schwäche, sondern Teil demokratischer Praxis.
 
-Umso irritierender war es zunächst, dass die Grabplatten meiner Urgroßeltern noch nicht wieder an ihrem Platz sind. Sie wurden bereits im vergangenen Herbst saniert, sind aber bislang nicht zurückgekehrt. Gleichzeitig hat die Stadt eine neue, sehr informative Tafel aufgestellt. Sie bietet eine Übersicht der hier begrabenden Menschen, ordnet den Ort ein und gibt Kontext, warum dieser Ehrenhain existiert.
+Ich würde mir deshalb wünschen, dass mehr Menschen diesen Weg wählen und sich in einer Partei engagieren. Nicht aus naivem Optimismus, sondern aus einer realistischen Einschätzung heraus: Parteien sind veränderbar, wenn auch nicht beliebig. Einfluss durch Engagement ist nicht garantiert – dafür sind sie zu komplex und zu stark in institutionelle Logiken eingebunden. Und doch zeigt sich immer wieder, gerade im Wahlkampf oder in Phasen intensiver Mobilisierung: Keine Parteispitze kann ohne eine aktive, überzeugte Basis nachhaltig wirken – dadurch haben wir an der Basis auch ein starkes Druckmittel, um Veränderungen zu erzwingen.
 
-Für mich bleibt dieser Ort eng mit meiner eigenen Familiengeschichte verbunden. Und mit der Frage, was wir heute daraus machen.
+Eine lebendige Demokratie braucht beides – starke zivilgesellschaftliche Impulse und handlungsfähige Parteien. Entscheidend ist meines Erachtens, dass sich mehr Menschen nicht nur für das eine oder das andere entscheiden, sondern bereit sind, diese Verbindung mitzugestalten. Und momentan braucht es mehr aktive Menschen in Parteien, die die Ausdauer haben, sich für Veränderungen stark zu machen.
+
+---
+
+## Demokratie in der Praxis ##
+*13.03.2026 @ Magdeburg*
+
+Auf dem Demokratiekongress 2026 der Fraktion BÜNDNIS 90/DIE GRÜNEN im Landtag von Sachsen-Anhalt war ich gestern als Referent zu einer Session über das **Demokratieprinzip** in Genossenschaften eingeladen – und habe dabei ganz konkret die Perspektive der CoWorkLand eG eingebracht.
+
+Dieses Demokratieprinzip finde ich immer wieder bemerkenswert, gerade wenn man sie mit anderen Unternehmensformen vergleicht: **In Genossenschaften gilt das Prinzip „eine Stimme pro Mitglied“.** Unabhängig davon, wie viel Kapital jemand eingebracht hat. Während wirtschaftlicher Einfluss sonst oft direkt an Geld gekoppelt ist, organisieren Genossenschaften wirtschaftliches Handeln bewusst demokratisch. Mitglieder sind nicht nur Kund\*innen oder Kapitalgeber\*innen, sondern zugleich Eigentümer\*innen und Mitentscheider\*innen.
+
+An unserer eigenen Arbeit lässt sich das ganz gut zeigen. In der CoWorkLand eG vernetzen und unterstützen wir Coworking Spaces – vor allem in ländlichen Regionen. Unsere Mitglieder sind ziemlich unterschiedlich: von kleinen Initiativen auf dem Dorf bis hin zu etablierten Standorten in Klein- und Mittelstädten. Und trotzdem gilt in der Mitgliederversammlung für alle genau das gleiche Stimmrecht. Das führt dazu, dass Entscheidungen nicht nur die Perspektive einzelner großer Akteure abbilden, sondern die der gesamten Gemeinschaft.
+
+Ein aktuelles Beispiel dafür ist unsere strategische Weiterentwicklung. Nach einigen Jahren mit klarem Fokus auf Coworking im ländlichen Raum diskutieren wir gerade, das Konzept weiterzuentwickeln – hin zu sogenannten MehrWertOrten. Also Orten, an denen Coworking mit anderen lokalen Angeboten zusammenkommt: Dorfläden, Werkstätten oder andere gemeinschaftlich genutzte Infrastrukturen. Diese Idee ist nicht _von oben_ gekommen, sondern wurde innerhalb der Genossenschaft entwickelt, diskutiert und schließlich gemeinsam beschlossen.
+
+Für mich war mein Impulsvortrag auf dem Demokratiekongress deshalb vor allem eine Gelegenheit, genau dieses Zusammenspiel sichtbar zu machen: wirtschaftliches Handeln und demokratische Mitbestimmung. Genossenschaften zeigen, dass das kein Widerspruch ist – im Gegenteil. Gerade für regionale Entwicklung und neue Arbeitsorte kann dieses Modell ziemlich viel leisten.
+
+Und ganz ehrlich: Ich finde, solche Perspektiven gehören stärker in politische Debatten. Insofern habe ich mich über die Einladung auch deshalb gefreut, weil ich die Erfahrungen unserer Mitglieder in genau so einen Kontext einbringen konnte.
