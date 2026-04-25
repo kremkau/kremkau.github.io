@@ -3,7 +3,7 @@
 ## Warum Engagement ohne Parteien nicht reicht ##
 *13.04.2026 @ Magdeburg*
 
-Viele Menschen engagieren sich derzeit mit beeindruckender Energie in demokratische Projekte – weit seltener jedoch in demokratische Parteien. Dafür gibt es durchaus nachvollziehbare Gründe. Parteien gelten allgemein als schwer zugänglich, ihre Entscheidungswege als komplex, manches, was _von oben_ kommt, bleibt selbst für Engagierte vor Ort nicht immer transparent.
+<p style="text-align: justify;">Viele Menschen engagieren sich derzeit mit beeindruckender Energie in demokratische Projekte – weit seltener jedoch in demokratische Parteien. Dafür gibt es durchaus nachvollziehbare Gründe. Parteien gelten allgemein als schwer zugänglich, ihre Entscheidungswege als komplex, manches, was _von oben_ kommt, bleibt selbst für Engagierte vor Ort nicht immer transparent.
 
 Und dennoch: Wir leben in einer parlamentarischen Demokratie. Politische Initiativen, zivilgesellschaftliches Engagement und Bewegungen können Debatten anstoßen, Druck erzeugen und Perspektiven verschieben. Doch die konkrete Umsetzung politischer Vorhaben – also das Organisieren von Mehrheiten, das Verabschieden von Gesetzen, das Gestalten von Regierungspolitik – erfolgt nach wie vor maßgeblich über Parteien. Wer sie strukturell schwächt, schwächt damit auch die zentralen Instrumente demokratischer Gestaltung.
 
@@ -13,7 +13,7 @@ Gerade deshalb erscheint es mir aber als sehr sinnvoll, auch dort Verantwortung 
 
 Ich würde mir deshalb wünschen, dass mehr Menschen diesen Weg wählen und sich in einer Partei engagieren. Nicht aus naivem Optimismus, sondern aus einer realistischen Einschätzung heraus: Parteien sind veränderbar, wenn auch nicht beliebig. Einfluss durch Engagement ist nicht garantiert – dafür sind sie zu komplex und zu stark in institutionelle Logiken eingebunden. Und doch zeigt sich immer wieder, gerade im Wahlkampf oder in Phasen intensiver Mobilisierung: Keine Parteispitze kann ohne eine aktive, überzeugte Basis nachhaltig wirken – dadurch haben wir an der Basis auch ein starkes Druckmittel, um Veränderungen zu erzwingen.
 
-Eine lebendige Demokratie braucht beides – starke zivilgesellschaftliche Impulse und handlungsfähige Parteien. Entscheidend ist meines Erachtens, dass sich mehr Menschen nicht nur für das eine oder das andere entscheiden, sondern bereit sind, diese Verbindung mitzugestalten. Und momentan braucht es mehr aktive Menschen in Parteien, die die Ausdauer haben, sich für Veränderungen stark zu machen.
+Eine lebendige Demokratie braucht beides – starke zivilgesellschaftliche Impulse und handlungsfähige Parteien. Entscheidend ist meines Erachtens, dass sich mehr Menschen nicht nur für das eine oder das andere entscheiden, sondern bereit sind, diese Verbindung mitzugestalten. Und momentan braucht es mehr aktive Menschen in Parteien, die die Ausdauer haben, sich für Veränderungen stark zu machen.</p>
 
 ---
 
