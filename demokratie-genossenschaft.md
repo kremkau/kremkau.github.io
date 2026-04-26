@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 # Demokratie in der Praxis #
 <p style="font-size: 0.8em; color: #666;">
   <time datetime="2026-03-13">13.03.2026 @ Magdeburg</time> –
