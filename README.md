@@ -1,15 +1,3 @@
-<head>
-  <style>
-    body {
-      background-color: #fff17a;
-    }
-
-    a {
-      color: #008939;
-    }
-  </style>
-</head>
-
 [Über mich](/about.md/) | [Impressum](/impressum.md/)
 
 <article>
