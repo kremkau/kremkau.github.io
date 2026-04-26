@@ -64,7 +64,7 @@
 
 <p style="text-align: justify;">Gov verbindet in seiner Installation die Idee des sprichwörtlichen „Elefanten im Raum“ mit Ionescos Motiv der Verwandlung. Es geht um Banalität, um Gewöhnung, um die Frage, wann wir aufhören, Widerspruch zu leisten – nicht aus Überzeugung, sondern aus Bequemlichkeit oder Müdigkeit.</p>
 
-<p><img alt="Das Nashorn von Itamar Gov in Magdeburg“ src="https://github.com/user-attachments/assets/32b5cb76-2d23-4e57-ab07-9446a724e292" width="100%"></p>
+<p><img alt="Das Nashorn von Itamar Gov in Magdeburg" src="https://github.com/user-attachments/assets/32b5cb76-2d23-4e57-ab07-9446a724e292" width="100%"></p>
 
 <p style="text-align: justify;">Eine monumentale, weiß aufgeblasene Nashorn-Skulptur füllt nahezu vollständig das Kirchenschiff eines Klosters. Das Tier steht zwischen hohen Steinpfeilern unter einem Gewölbe und wirkt durch seine Größe zugleich weich und überwältigend. Im Vordergrund betrachten zwei Personen mit Mützen die Installation aus der Distanz und heben die Arme, wodurch der Größenunterschied zwischen Mensch und Kunstwerk besonders deutlich wird.</p>
 
