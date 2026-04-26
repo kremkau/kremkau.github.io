@@ -1,5 +1,5 @@
 # Warum Engagement ohne Parteien nicht reicht #
-*13.04.2026 @ Magdeburg*
+*13. April 2026 @ Magdeburg*
 
 <p style="text-align: justify;">Viele Menschen engagieren sich derzeit mit beeindruckender Energie in demokratische Projekte – weit seltener jedoch in demokratische Parteien. Dafür gibt es durchaus nachvollziehbare Gründe. Parteien gelten allgemein als schwer zugänglich, ihre Entscheidungswege als komplex, manches, was <i>von oben</i> kommt, bleibt selbst für Engagierte vor Ort nicht immer transparent.</p>
 
@@ -12,3 +12,9 @@
 <p style="text-align: justify;">Ich würde mir deshalb wünschen, dass mehr Menschen diesen Weg wählen und sich in einer Partei engagieren. Nicht aus naivem Optimismus, sondern aus einer realistischen Einschätzung heraus: Parteien sind veränderbar, wenn auch nicht beliebig. Einfluss durch Engagement ist nicht garantiert – dafür sind sie zu komplex und zu stark in institutionelle Logiken eingebunden. Und doch zeigt sich immer wieder, gerade im Wahlkampf oder in Phasen intensiver Mobilisierung: Keine Parteispitze kann ohne eine aktive, überzeugte Basis nachhaltig wirken – dadurch haben wir an der Basis auch ein starkes Druckmittel, um Veränderungen zu erzwingen.</p>
 
 <p style="text-align: justify;">Eine lebendige Demokratie braucht beides – starke zivilgesellschaftliche Impulse und handlungsfähige Parteien. Entscheidend ist meines Erachtens, dass sich mehr Menschen nicht nur für das eine oder das andere entscheiden, sondern bereit sind, diese Verbindung mitzugestalten. Und momentan braucht es mehr aktive Menschen in Parteien, die die Ausdauer haben, sich für Veränderungen stark zu machen.</p>
+
+---
+
+[Zurück zum Blog](https://kremkau.github.io/) | [Impressum](/impressum.md/)
+
+---
