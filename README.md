@@ -9,7 +9,7 @@ Warum Engagement ohne Parteien nicht reicht
 <p>
 Warum engagieren sich viele Menschen für Demokratie – aber nicht in Parteien? Ich frage mich, warum Parteien trotz aller Schwächen unverzichtbar bleiben und weshalb demokratische Veränderung auch dort erkämpft werden muss, wo Entscheidungen tatsächlich fallen.
 </p>
-<a href="https://kremkau.github.io/engagement-partei"> | Weiterlesen</a>
+<a href="https://kremkau.github.io/engagement-partei">Weiterlesen</a>
 </article>
 
 ---
