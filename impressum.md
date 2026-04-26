@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 ## Impressum ##
 
 <p><b>Angaben gemäß § 5 TMG</b></p>
