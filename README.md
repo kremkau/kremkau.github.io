@@ -193,6 +193,25 @@ Ich habe Instagram erneut verlassen, weil politische Sichtbarkeit für mich nich
 
 <article>
 <h2>
+<a href="https://kremkau.github.io/lavo-bewerbungsrede">
+Meine Bewerbungsrede
+</a>
+</h2>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2025-05-17">
+    17. Mai 2025 @ Magdeburg
+  </time>
+</p>
+<p style="text-align: justify;">
+Beim 52. Landesparteitag von BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt am 17. Mai 2025 in Magdeburg habe ich mich für das Amt des Landesvorsitzenden beworben. Im Sinne einer offenen und transparenten Kommunikation stelle ich hier meine Bewerbungsrede zur Verfügung.
+</p>
+<a href="https://kremkau.github.io/lavo-bewerbungsrede">Weiterlesen</a>
+</article>
+
+---
+
+<article>
+<h2>
 <a href="https://kremkau.github.io/beirat-der-weggezogenen">
 Beirat der Weggezogenen
 </a>
