@@ -8,7 +8,7 @@
 <a href="https://kremkau.github.io/about.html" style="color: white; font-weight: bold; text-decoration: none;">
 Über mich
 </a>
-|
+<span style="color: white;"> | </span>
 <a href="https://kremkau.github.io/impressum.html" style="color: white; font-weight: bold; text-decoration: none;">
 Impressum
 </a>
