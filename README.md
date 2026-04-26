@@ -1,3 +1,18 @@
+<style>
+body {
+background-color: #fff17a; /* Hintergrund der ganzen Seite */
+}
+
+a {
+color: #008939; /* Linkfarbe */
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline; /* optional beim Hover */
+}
+</style>
+
 [Über mich](/about.md/) | [Impressum](/impressum.md/)
 
 <article>
