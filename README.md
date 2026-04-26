@@ -64,7 +64,12 @@
 
 <p style="text-align: justify;">Der zweite Turniertag brachte die Kehrtwende. Zwei Siege in Folge und damit 2,5 Punkte nach vier Runden – plötzlich lief es. Besonders im Gedächtnis bleibt mir das Mattmotiv aus Runde drei: Eine forcierte Variante, die ich zunächst als Matt in fünf berechnet hatte (siehe Bild). Nachdem mein Gegenüber jedoch den schwarzen König von e8 nach e7 zog, verkürzte sich alles drastisch – zwei Züge später war die Partie beendet. Das sind die Momente, in denen sich das Rechnen, das Verwerfen, das erneute Ansetzen auszahlt.</p>
 
-<p><img alt="Schachdiagramm mit einer komplexen Endspielstellung. Weiß hat den König auf h2, die Dame auf e3, Türme auf d1 und f1, einen Springer auf g5 sowie Bauern auf d7, g3 und h3. Schwarz hat den König eben von e8 nach e7 gezogen, die Dame steht auf g4, Türme auf a8 und h8, einem Springer auf g6 sowie mehreren Bauern auf e6, e5 und a7. Die Stellung deutet auf eine akute Mattdrohung gegen den schwarzen König hin." src="https://github.com/user-attachments/assets/64bbaacc-7eac-4b4e-a642-80da5b7f0113" width="100%"></p>
+<figure>
+<img alt="Schachdiagramm mit einer komplexen Endspielstellung. Weiß hat den König auf h2, die Dame auf e3, Türme auf d1 und f1, einen Springer auf g5 sowie Bauern auf d7, g3 und h3. Schwarz hat den König eben von e8 nach e7 gezogen, die Dame steht auf g4, Türme auf a8 und h8, einem Springer auf g6 sowie mehreren Bauern auf e6, e5 und a7. Die Stellung deutet auf eine akute Mattdrohung gegen den schwarzen König hin." src="https://github.com/user-attachments/assets/64bbaacc-7eac-4b4e-a642-80da5b7f0113" width="100%">
+<figcaption style="font-size: 0.9em; color: #666;">
+Kremkau – Wall, 42. … Ke8-e7, LEM 2026
+</figcaption>
+</figure>
 
 <p style="text-align: justify;">Runde fünf hingegen wird mir als mein persönlicher „weißer Wal“ in Erinnerung bleiben. Mit Weiß stand ich laut Engine bei +8, meine Gegnerin in Zeitnot, objektiv eine technisch gewonnene Stellung. Ich sah den Zug, der die schwarzen Probleme vervielfacht hätte. Und spielte ihn nicht. Stattdessen entschied ich mich – rückblickend betrachtet – nahezu für die einzige Fortsetzung, die die Partie noch kippen konnte. Selten zuvor habe ich so deutlich gespürt, wie schmal der Grat zwischen Berechnung und Entscheidung ist. Theorie und Praxis trennen manchmal nur ein einziger Zug.</p>
 
