@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 # Konservativ – und doch offen? #
 <p style="font-size: 0.8em; color: #666;">
   <time datetime="2026-02-27">27.02.2026 @ Magdeburg</time> –
