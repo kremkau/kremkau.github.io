@@ -4,7 +4,21 @@
   }
 </style>
 
-[Über mich](/about.md/) | [Impressum](/impressum.md/)
+<p style="background-color: #008939; padding: 10px;">
+<a href="https://kremkau.github.io/about.html" style="color: white; font-weight: bold; text-decoration: none;">
+Über mich
+</a>
+|
+<a href="https://kremkau.github.io/impressum.html" style="color: white; font-weight: bold; text-decoration: none;">
+Impressum
+</a>
+</p>
+
+<style>
+p a:hover {
+text-decoration: underline;
+}
+</style>
 
 <article>
 <h2>
