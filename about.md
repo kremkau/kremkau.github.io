@@ -1,3 +1,5 @@
+[Blog](/readme.md/) | [Impressum](/impressum.md/)
+
 <img alt="Tobias Kremkau vor dem ICE 2 mit dem Namen Stendal" src="https://github.com/user-attachments/assets/f0c7263d-18a7-4e63-aa81-55805579caf6" width="100%">
 
 <p style="text-align: justify;">Mein Name ist Tobias Kremkau. Auf diesem Blog veröffentliche ich eigene Texte, Beobachtungen und Analysen zu Politik, Coworking, regionaler Entwicklung, Sachsen-Anhalt und ländlichen Räumen.</p>
