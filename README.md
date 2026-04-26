@@ -1,5 +1,19 @@
 [Über mich](/about.md/) | [Impressum](/impressum.md/)
 
+<article>
+<h2>
+<a href="https://kremkau.github.io/engagement-partei">
+Warum Engagement ohne Parteien nicht reicht
+</a>
+</h2>
+<p>
+Warum engagieren sich viele Menschen für Demokratie – aber nicht in Parteien? Ich frage mich, warum Parteien trotz aller Schwächen unverzichtbar bleiben und weshalb demokratische Veränderung auch dort erkämpft werden muss, wo Entscheidungen tatsächlich fallen.
+</p>
+<a href="https://kremkau.github.io/engagement-partei"> | Weiterlesen</a>
+</article>
+
+---
+
 ## Warum Engagement ohne Parteien nicht reicht ##
 *13.04.2026 @ Magdeburg*
 
