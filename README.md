@@ -184,7 +184,7 @@ Itamar Govs Nashorn im Kloster Unser Lieben Frauen, 2026
 
 ---
 
-## 1.April: Magdeburg wächst ##
+## 1. April: Magdeburg wächst ##
 *01.04.2025 @ Magdeburg*
 
 <figure>
