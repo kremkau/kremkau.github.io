@@ -55,7 +55,7 @@
 
 ---
 
-## Offene Landeseinzelmeisterchaft 2026 ##
+## Landeseinzelmeisterchaft 2026 ##
 *04.02.2026 @ Magdeburg*
 
 <p style="text-align: justify;">In den vergangenen Tagen habe ich an der offenen Landeseinzelmeisterschaft Sachsen-Anhalt 2026 im Schach teilgenommen. Für den SV Energie Stendal waren wir gleich zu dritt im Open am Start: Christopher Berndt, Sascha Schillig und ich. Für mich war das Turnier wie so oft beides zugleich – sportliche Herausforderung und persönliche Standortbestimmung.</p>
@@ -90,7 +90,12 @@ Kremkau – Wall, 42. … Ke8-e7, LEM 2026
 
 <p style="text-align: justify;">Gov verbindet in seiner Installation die Idee des sprichwörtlichen „Elefanten im Raum“ mit Ionescos Motiv der Verwandlung. Es geht um Banalität, um Gewöhnung, um die Frage, wann wir aufhören, Widerspruch zu leisten – nicht aus Überzeugung, sondern aus Bequemlichkeit oder Müdigkeit.</p>
 
-<p><img alt="Das Nashorn von Itamar Gov in Magdeburg" src="https://github.com/user-attachments/assets/32b5cb76-2d23-4e57-ab07-9446a724e292" width="100%"></p>
+<figure>
+<img alt="Das Nashorn von Itamar Gov in Magdeburg" src="https://github.com/user-attachments/assets/32b5cb76-2d23-4e57-ab07-9446a724e292" width="100%">
+<figcaption style="font-size: 0.9em; color: #666;">
+Itamar Govs Nashorn im Kloster Unser Lieben Frauen, 2026
+</figcaption>
+</figure>
 
 <p style="text-align: justify;">Eine monumentale, weiß aufgeblasene Nashorn-Skulptur füllt nahezu vollständig das Kirchenschiff eines Klosters. Das Tier steht zwischen hohen Steinpfeilern unter einem Gewölbe und wirkt durch seine Größe zugleich weich und überwältigend. Im Vordergrund betrachten zwei Personen mit Mützen die Installation aus der Distanz und heben die Arme, wodurch der Größenunterschied zwischen Mensch und Kunstwerk besonders deutlich wird.</p>
 
