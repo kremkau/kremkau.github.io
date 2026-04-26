@@ -1,4 +1,4 @@
-<style>
+<p><style>
 body {
 background-color: #fff17a; /* Hintergrund der ganzen Seite */
 }
@@ -11,7 +11,7 @@ text-decoration: none;
 a:hover {
 text-decoration: underline; /* optional beim Hover */
 }
-</style>
+</style></p>
 
 [Über mich](/about.md/) | [Impressum](/impressum.md/)
 
