@@ -22,6 +22,7 @@
 <p style="text-align: justify;">Für mich war mein Impulsvortrag auf dem Demokratiekongress deshalb vor allem eine Gelegenheit, genau dieses Zusammenspiel sichtbar zu machen: wirtschaftliches Handeln und demokratische Mitbestimmung. Genossenschaften zeigen, dass das kein Widerspruch ist – im Gegenteil. Gerade für regionale Entwicklung und neue Arbeitsorte kann dieses Modell ziemlich viel leisten.</p>
 
 <p style="text-align: justify;">Und ganz ehrlich: Ich finde, solche Perspektiven gehören stärker in politische Debatten. Insofern habe ich mich über die Einladung auch deshalb gefreut, weil ich die Erfahrungen unserer Mitglieder in genau so einen Kontext einbringen konnte.</p>
+
 ---
 
 <p style="font-size: 0.8em; color: #666;">
