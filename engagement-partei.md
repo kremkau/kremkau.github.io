@@ -1,8 +1,8 @@
 # Warum Engagement ohne Parteien nicht reicht #
 <p style="font-size: 0.8em; color: #666;">
-  <time datetime="2026-04-13">13. April 2026 @ Magdeburg</time> –
+  <time datetime="2026-04-13">13.04.2026 @ Magdeburg</time> –
   <span>Autor:</span>
-  <a href="/about.md/" rel="author">Tobias Kremkau</a>.
+  <a href="https://kremkau.github.io/about.html" rel="author">Tobias Kremkau</a>.
 </p>
 
 <p style="text-align: justify;">Viele Menschen engagieren sich derzeit mit beeindruckender Energie in demokratische Projekte – weit seltener jedoch in demokratische Parteien. Dafür gibt es durchaus nachvollziehbare Gründe. Parteien gelten allgemein als schwer zugänglich, ihre Entscheidungswege als komplex, manches, was <i>von oben</i> kommt, bleibt selbst für Engagierte vor Ort nicht immer transparent.</p>
