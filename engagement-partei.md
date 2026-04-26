@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 # Warum Engagement ohne Parteien nicht reicht #
 <p style="font-size: 0.8em; color: #666;">
   <time datetime="2026-04-13">13.04.2026 @ Magdeburg</time> –
