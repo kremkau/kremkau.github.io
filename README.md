@@ -6,9 +6,11 @@
 Warum Engagement ohne Parteien nicht reicht
 </a>
 </h2>
-  <p><i>
-    <time style="font-size: 0.5; color: #666;datetime="2026-04-13">13. April 2026 @ Magdeburg</time>
-  </i></p>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2026-04-13">
+    13. April 2026 @ Magdeburg
+  </time>
+</p>
 <p style="text-align: justify;">
 Warum engagieren sich viele Menschen für Demokratie – aber nicht in Parteien? Ich frage mich, warum Parteien trotz aller Schwächen unverzichtbar bleiben und weshalb demokratische Veränderung auch dort erkämpft werden muss, wo Entscheidungen tatsächlich fallen.
 </p>
