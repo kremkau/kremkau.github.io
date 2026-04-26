@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 # Itamar Govs Nashorn #
 <p style="font-size: 0.8em; color: #666;">
   <time datetime="2026-01-29">29.01.2026 @ Magdeburg</time> –
