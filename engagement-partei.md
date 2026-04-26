@@ -19,6 +19,12 @@
 
 ---
 
+<a href="/assets/files/engagement-partei.pdf" target="_blank">
+  PDF ansehen
+</a>
+
+---
+
 [Zurück zum Blog](https://kremkau.github.io/) | [Impressum](/impressum.md/)
 
 ---
