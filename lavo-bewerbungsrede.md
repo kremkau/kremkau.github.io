@@ -93,6 +93,3 @@ Während meiner Bewerbungsrede (Foto: Christian Franke-Langmach)
 
 ---
 
-
-
-<img width="1280" height="853" alt="Tobias-Kremkau_LPT-2025" src="https://github.com/user-attachments/assets/513066f4-f61e-41cd-a050-8737bb019444" />
