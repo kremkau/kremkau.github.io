@@ -1,4 +1,4 @@
-[Über mich](/about.md/) | [Impressum](/impressum.md/)
+[Über mich](/about.md/)   [Impressum](/impressum.md/)
 
 ## Warum Engagement ohne Parteien nicht reicht ##
 *13.04.2026 @ Magdeburg*
