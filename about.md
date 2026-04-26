@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 [Zurück zum Blog](https://kremkau.github.io/) | [Impressum](/impressum.md/)
 
 <img alt="Tobias Kremkau vor dem ICE 2 mit dem Namen Stendal" src="https://github.com/user-attachments/assets/f0c7263d-18a7-4e63-aa81-55805579caf6" width="100%">
