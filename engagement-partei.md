@@ -19,7 +19,7 @@
 
 ---
 
-<p style="font-size: 0.5em; color: #666;">
+<p style="font-size: 0.8em; color: #666;">
   <a href="https://kremkau.github.io/">← Zurück zum Blog</a> |
   <a href="/impressum/">Impressum</a>
 </p>
