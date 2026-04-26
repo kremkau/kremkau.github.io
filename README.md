@@ -188,7 +188,7 @@ Itamar Govs Nashorn im Kloster Unser Lieben Frauen, 2026
 *01.04.2025 @ Magdeburg*
 
 <figure>
-<img alt="Französische Karte von Magdeburg um 1880" src="https://github.com/user-attachments/assets/95d46bed-fc84-47a0-8584-09f0b2b36d6f" width="100%"></p>
+<img alt="Französische Karte von Magdeburg um 1880" src="https://github.com/user-attachments/assets/95d46bed-fc84-47a0-8584-09f0b2b36d6f" width="100%">
 <figcaption style="font-size: 0.9em; color: #666;">
 Französische Karte von Magdeburg um 1880
 </figcaption>
