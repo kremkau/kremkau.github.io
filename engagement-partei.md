@@ -1,7 +1,7 @@
 # Warum Engagement ohne Parteien nicht reicht #
 <p style="font-size: 0.8em; color: #666;">
   <time datetime="2026-04-13">13. April 2026 @ Magdeburg</time> –
-  <span>Von:</span>
+  <span>Autor:</span>
   <a href="/about.md/" rel="author">Tobias Kremkau</a>.
 </p>
 
