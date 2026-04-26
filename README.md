@@ -187,7 +187,12 @@ Itamar Govs Nashorn im Kloster Unser Lieben Frauen, 2026
 ## 1.April: Magdeburg wächst ##
 *01.04.2025 @ Magdeburg*
 
-<p><img alt="Französische Karte von Magdeburg um 1880" src="https://github.com/user-attachments/assets/95d46bed-fc84-47a0-8584-09f0b2b36d6f" width="100%"></p>
+<figure>
+<img alt="Französische Karte von Magdeburg um 1880" src="https://github.com/user-attachments/assets/95d46bed-fc84-47a0-8584-09f0b2b36d6f" width="100%"></p>
+<figcaption style="font-size: 0.9em; color: #666;">
+Französische Karte von Magdeburg um 1880
+</figcaption>
+</figure>
 
 <p style="text-align: justify;">Der 1. April ist in der Geschichte Magdeburgs kein Tag für Scherze, sondern ein doppelter Meilenstein städtischer Entwicklung: 1886 wurde die Neustadt eingemeindet, ein Jahr später folgte Buckau. Zwei Orte mit eigener Geschichte, die heute zu den spannendsten Stadtteilen der Landeshauptstadt zählen.</p>
 
