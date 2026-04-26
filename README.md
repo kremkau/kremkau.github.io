@@ -1,3 +1,9 @@
+<style>
+  a {
+    color: #008939; /* normale Linkfarbe */
+  }
+</style>
+
 [Über mich](/about.md/) | [Impressum](/impressum.md/)
 
 <article>
