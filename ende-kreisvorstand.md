@@ -30,3 +30,12 @@
 <p style="text-align: justify;">Formal ließe sich die Situation lösen, indem wir das Amt der Kreisschatzmeisterin neu besetzen. Praktisch ist das im Moment nicht realistisch. Wir haben niemanden, der bereit ist, diese Verantwortung zu übernehmen – weder jetzt noch perspektivisch für einen neu zu wählenden Vorstand ab September. Eine gescheiterte Nachwahl würde dazu führen, dass der Kreisverband mitten im Wahlkampf aufgelöst werden würde. Dieses Risiko wollen wir nicht eingehen. Wir haben vor über zwei Jahren erlebt, was ein Notvorstand bedeutet. Ein zweites Mal würde uns eine solche Ausnahme vermutlich sowieso nicht gestattet werden.</p>
 
 <p style="text-align: justify;">Unabhängig davon, wie die nächsten Tage verlaufen: Für mich ist eine Grenze erreicht. Spätestens nach diesem Landtagswahlkampf werde ich mein Engagement in diesem Landesverband beenden. Ich werde nicht aus der Partei austreten – aber mein Engagement beende ich.</p>
+
+---
+
+<p style="font-size: 0.8em; color: #666;">
+  <a href="https://kremkau.github.io/">← Zurück zum Blog</a> |
+  <a href="https://kremkau.github.io/impressum.html">Impressum</a>
+</p>
+
+---
