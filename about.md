@@ -26,6 +26,6 @@ text-decoration: underline;
 
 <p style="text-align: justify;">Beruflich beschäftige ich mich mit Coworking, mobilen Arbeitsformen und dezentralen Arbeitsorten. Für die CoWorkLand-Genossenschaft unterstütze ich Betreiber*innen von Coworking Spaces, verfasse Studien und begleite Projekte, insbesondere mit Blick auf Ostdeutschland.</p>
 
-<p style="text-align: justify;">Seit 2012 bin ich Mitglied von BÜNDNIS 90/DIE GRÜNEN. Zuletzt engagierte ich mich als Beisitzer im Landesvorstand Sachsen-Anhalt sowie als Vorsitzender des Kreisverbands Altmark.</p>
+<p style="text-align: justify;">Seit 2012 bin ich Mitglied von BÜNDNIS 90/DIE GRÜNEN. Zuletzt engagierte ich mich als Beisitzer im Landesvorstand Sachsen-Anhalt (05/2025 bis 11/2025) sowie als Vorsitzender des Kreisverbands Altmark (11/2023 bis 04/2026).</p>
 
 <p style="text-align: justify;">Der Blog dient der Sammlung, Einordnung und Veröffentlichung persönlicher Gedanken, Thesen und Erfahrungen.</p>
