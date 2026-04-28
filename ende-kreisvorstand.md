@@ -6,7 +6,7 @@
 
 # Ende als Kreisvorstand #
 <p style="font-size: 0.8em; color: #666;">
-  <time datetime="2026-04-24">24.04.2026 @ Magdeburg</time> –
+  <time datetime="2026-04-24">24.04.2026 @ Berlin</time> –
   <span>Autor:</span>
   <a href="https://kremkau.github.io/about.html" rel="author">Tobias Kremkau</a>.
 </p>
