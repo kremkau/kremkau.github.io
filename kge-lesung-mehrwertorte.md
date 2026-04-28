@@ -21,7 +21,7 @@
 <p style="text-align: justify;">In meinem Ehrenamt als bündnisgrüner Kreisvorsitzender in der Altmark habe ich die Veranstaltung organisiert. Anlass war ihr Buch <b>"Deutschland, lass uns reden"</b>, doch im Gespräch mit dem Publikum ging es schnell um etwas Grundsätzlicheres: um Zusammenhalt, um das Gefühl von Zugehörigkeit – und um die Frage, warum beides gerade im ländlichen Raum oft fragiler ist, als wir es uns eingestehen.</p>
 
 <figure>
-<img alt=„Lesung mit Katrin Göring-Eckardt" src="https://github.com/user-attachments/assets/a9a8e035-ed30-4b36-8c4a-645260b885be" width="100%">
+<img alt="Lesung mit Katrin Göring-Eckardt" src="https://github.com/user-attachments/assets/a9a8e035-ed30-4b36-8c4a-645260b885be" width="100%">
 <figcaption style="font-size: 0.5em; color: #666;">
 Im Gespräch: Miriam Zeller und Katrin Göring-Eckardt
 </figcaption>
