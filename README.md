@@ -41,6 +41,25 @@ Ich erlebe unseren bündnisgrünen Landesverband zu stark als Kampagnenmaschine 
 
 <article>
 <h2>
+<a href="https://kremkau.github.io/ende-kreisvorstand">
+Ende als Kreisvorstand
+</a>
+</h2>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2026-04-24">
+    24. April 2026 @ Magdeburg
+  </time>
+</p>
+<p style="text-align: justify;">
+Ich blogge darüber, warum meine Arbeit als Vorstand des Kreisverbands Altmark nach fast drei Jahren endet: politisch entmachtet, menschlich enttäuscht und persönlich an einer Grenze angekommen. Aus der Partei trete ich nicht aus – aber mein Engagement beende ich.
+</p>
+<a href="https://kremkau.github.io/ende-kreisvorstand">Weiterlesen</a>
+</article>
+
+---
+
+<article>
+<h2>
 <a href="https://kremkau.github.io/engagement-partei">
 Warum Engagement ohne Parteien nicht reicht
 </a>
