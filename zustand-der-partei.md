@@ -30,3 +30,12 @@
 <p style="text-align: justify;">Und vielleicht liegt genau darin der eigentliche Kern des Problems: Wir sind uns gerade nicht mehr sicher, wer wir sind – oder wer wir sein wollen.</p>
 
 <p style="text-align: justify;">Das ist kein lauter Vorwurf. Eher eine leise, aber ernsthafte Irritation. Denn ohne ein gemeinsames Verständnis von uns selbst wird es uns weder gelingen, als Organisation stabiler zu werden, noch als politische Kraft überzeugender aufzutreten.</p>
+
+---
+
+<p style="font-size: 0.8em; color: #666;">
+  <a href="https://kremkau.github.io/">← Zurück zum Blog</a> |
+  <a href="https://kremkau.github.io/impressum.html">Impressum</a>
+</p>
+
+---
