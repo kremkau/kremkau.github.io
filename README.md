@@ -22,6 +22,25 @@ text-decoration: underline;
 
 <article>
 <h2>
+<a href="https://kremkau.github.io/zustand-der-partei">
+Wie geht es uns als Landespartei?
+</a>
+</h2>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2026-04-28">
+    28. April 2026 @ Magdeburg
+  </time>
+</p>
+<p style="text-align: justify;">
+Ich erlebe unseren bündnisgrünen Landesverband zu stark als Kampagnenmaschine und zu wenig als Unterstützungsstruktur für die Kreisverbände. Mich beschäftigt dabei nicht nur eine organisatorische Schieflage, sondern auch die Frage, ob wir als bündnisgrüne Partei noch klar genug wissen, wer wir sind und wer wir sein wollen.
+</p>
+<a href="https://kremkau.github.io/zustand-der-partei">Weiterlesen</a>
+</article>
+
+---
+
+<article>
+<h2>
 <a href="https://kremkau.github.io/engagement-partei">
 Warum Engagement ohne Parteien nicht reicht
 </a>
