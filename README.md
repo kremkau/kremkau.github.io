@@ -155,6 +155,25 @@ Im Magdeburger Kunstmuseum habe ich Itamar Govs Installation „The Rhinocerus i
 
 <article>
 <h2>
+<a href="https://blog.kremkau.io/kge-lesung-mehrwertorte">
+Orte, die Begegnung ermöglichen
+</a>
+</h2>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2026-01-27">
+    27. Januar 2026 @ Hansestadt Stendal
+  </time>
+</p>
+<p style="text-align: justify;">
+Bei einer Lesung mit Katrin Göring-Eckardt in Stendal habe ich darüber nachgedacht, warum Begegnungsorte im ländlichen Raum so wichtig sind. Ich erkläre, wie MehrWertOrte dazu beitragen können, Nähe, Austausch und soziale Infrastruktur gezielt zu stärken.
+</p>
+<a href="https://blog.kremkau.io/kge-lesung-mehrwertorte">Weiterlesen</a>
+</article>
+
+---
+
+<article>
+<h2>
 <a href="https://kremkau.github.io/lavo-ruecktritt">
 Zu meinem Rücktritt aus dem Landesvorstand
 </a>
