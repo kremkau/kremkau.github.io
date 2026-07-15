@@ -4,7 +4,7 @@
   }
 </style>
 
-# <i>Update:</i> Neuer Kreisvorstand #
+# Meine Kandidatur im Wahlkreis 2 #
 <p style="font-size: 0.8em; color: #666;">
   <time datetime="2026-06-27">27.06.2026 @ Hansestadt Gardelegen</time> –
   <span>Autor:</span>
