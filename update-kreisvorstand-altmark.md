@@ -11,7 +11,7 @@
   <a href="https://kremkau.github.io/about.html" rel="author">Tobias Kremkau</a>.
 </p>
 
-<p style="text-align: justify;">Am 24. April schrieb ich an dieser Stelle, dass mein Engagement als Kreisvorsitzender der Altmark beendet sei. Unsere damalige Kreisschatzmeisterin war aus Vorstand und Partei ausgetreten, der Kreisvorstand galt damit nicht mehr als handlungsfähig und der Landesvorstand übernahm die Geschäftsführung.</p>
+<p style="text-align: justify;">Am 24. April schrieb ich <a href="  https://blog.kremkau.io/ende-kreisvorstand">auf diesem Blog</a>, dass mein Engagement als Kreisvorsitzender der Altmark beendet sei. Unsere damalige Kreisschatzmeisterin war aus Vorstand und Partei ausgetreten, der Kreisvorstand galt damit nicht mehr als handlungsfähig und der Landesvorstand übernahm die Geschäftsführung.</p>
 
 <p style="text-align: justify;">Heute konnten wir auf einer außerordentlichen Kreismitgliederversammlung einen neuen Kreisvorstand wählen. Jutta und ich sind erneut als Kreisvorsitzende angetreten. Unsere Stendaler Stadträtin Miriam Zeller hat sich bereit erklärt, zusätzlich das Amt der Kreisschatzmeisterin zu übernehmen – ausdrücklich befristet bis nach der Landtagswahl.</p>
 
