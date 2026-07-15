@@ -22,6 +22,25 @@ text-decoration: underline;
 
 <article>
 <h2>
+<a href="https://blog.kremkau.io/wahlkreis-2-kandidatur">
+Meine Kandidatur im Wahlkreis 2
+</a>
+</h2>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2026-06-27">
+    27. Juni 2026 @ Hansestadt Gardelegen
+  </time>
+</p>
+<p style="text-align: justify;">
+Ich wurde zum bündnisgrünen Direktkandidaten im Wahlkreis 2 gewählt. Auch wenn ich nicht mit dem Direktmandat rechne, sehe ich meine Kandidatur aber keineswegs als symbolische Pflichtübung: Sie soll Vertrauen schaffen, Gespräche ermöglichen und unsere Präsenz vor Ort stärken. Vor allem möchte ich dazu beitragen, möglichst viele Zweitstimmen zu gewinnen, denn sie entscheiden über die Stärke unserer Partei im Landtag.
+</p>
+<a href="https://blog.kremkau.io/wahlkreis-2-kandidatur">Weiterlesen</a>
+</article>
+
+---
+
+<article>
+<h2>
 <a href="https://kremkau.github.io/update-kreisvorstand-altmark">
 <i>Update:</i> Neuer Kreisvorstand
 </a>
