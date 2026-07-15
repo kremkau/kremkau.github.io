@@ -34,7 +34,7 @@ text-decoration: underline;
 <p style="text-align: justify;">
 Wir haben in der Altmark noch einmal einen Kreisvorstand gewählt. Das ist aber nur eine Lösung auf Zeit, denn ein Kreisverband kann nicht dauerhaft davon leben, dass dieselben Ehrenamtlichen nach jeder Krise erneut einspringen – tragfähige Parteiarbeit braucht verlässliche Unterstützung und klare Verantwortungsübernahme auch auf Landesebene.
 </p>
-<a href="https://kremkau.github.io/zustand-der-partei">Weiterlesen</a>
+<a href="https://kremkau.github.io/update-kreisvorstand-altmark">Weiterlesen</a>
 </article>
 
 ---
