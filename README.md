@@ -22,6 +22,25 @@ text-decoration: underline;
 
 <article>
 <h2>
+<a href="https://kremkau.github.io/update-kreisvorstand-altmark">
+<i>Update:</i> Neuer Kreisvorstand
+</a>
+</h2>
+ <p style="font-size: 0.8em; color: #666;">
+  <time datetime="2026-05-30">
+    30. Mai 2026 @ Hansestadt Stendal
+  </time>
+</p>
+<p style="text-align: justify;">
+Wir haben in der Altmark noch einmal einen Kreisvorstand gewählt. Das ist aber nur eine Lösung auf Zeit, denn ein Kreisverband kann nicht dauerhaft davon leben, dass dieselben Ehrenamtlichen nach jeder Krise erneut einspringen – tragfähige Parteiarbeit braucht verlässliche Unterstützung und klare Verantwortungsübernahme auch auf Landesebene.
+</p>
+<a href="[https://kremkau.github.io/zustand-der-partei](https://kremkau.github.io/update-kreisvorstand-altmark)">Weiterlesen</a>
+</article>
+
+---
+
+<article>
+<h2>
 <a href="https://kremkau.github.io/zustand-der-partei">
 Wie geht es uns als Landespartei?
 </a>
