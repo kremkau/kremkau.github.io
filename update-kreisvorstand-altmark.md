@@ -15,7 +15,7 @@
 
 <p style="text-align: justify;">Heute konnten wir auf einer außerordentlichen Kreismitgliederversammlung einen neuen Kreisvorstand wählen. Jutta und ich sind erneut als Kreisvorsitzende angetreten. Unsere Stendaler Stadträtin Miriam Zeller hat sich bereit erklärt, zusätzlich das Amt der Kreisschatzmeisterin zu übernehmen – ausdrücklich befristet bis nach der Landtagswahl.</p>
 
-<p style="text-align: justify;">Damit ist der Kreisverband wieder handlungsfähig. Wir können den Wahlkampf organisieren, Veranstaltungen durchführen, unsere Kandidierenden unterstützen und die politische Arbeit in der Altmark fortsetzen.</p>
+<p style="text-align: justify;">Damit ist der Kreisverband wieder handlungsfähig. Wir können den Wahlkampf organisieren, Veranstaltungen durchführen, unsere Kandidat*innen unterstützen und die politische Arbeit in der Altmark fortsetzen.</p>
 
 <p style="text-align: justify;">Das ist eine gute Nachricht. Aber es ist kein Neuanfang.</p>
 
