@@ -1,0 +1,34 @@
+baseURL = 'https://blog.kremkau.io/'
+locale = 'de-DE'
+defaultContentLanguage = 'de'
+title = 'Kremkaus Blog 🌻'
+enableRobotsTXT = true
+enableGitInfo = false
+summaryLength = 35
+timeZone = 'Europe/Berlin'
+
+[params]
+  description = 'Persönliche Notizen über Politik, ländliche Räume und die Frage, wie wir unser Zusammenleben organisieren.'
+  author = 'Tobias Kremkau'
+
+[taxonomies]
+  rubrik = 'rubriken'
+  tag = 'tags'
+
+[permalinks]
+  posts = '/:slug/'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML', 'RSS']
+  term = ['HTML', 'RSS']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

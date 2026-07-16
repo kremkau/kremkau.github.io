@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <header class="list-header">
+    <h1>{{ if .IsHome }}Neueste Beiträge{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ with .Content }}<div class="intro">{{ . }}</div>{{ end }}
+  </header>
+  <div class="post-list">
+    {{ $pages := where .Pages "Section" "posts" }}
+    {{ if .IsHome }}{{ $pages = where site.RegularPages "Section" "posts" }}{{ end }}
+    {{ range $pages.ByDate.Reverse }}
+      <article class="post-card">
+        {{ with .GetTerms "rubriken" }}
+          <p class="eyebrow">{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</p>
+        {{ end }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="post-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+          {{ with .Params.location }}<span aria-hidden="true">·</span> {{ . }}{{ end }}
+        </p>
+        <p>{{ .Description }}</p>
+        <a class="read-more" href="{{ .RelPermalink }}" aria-label="{{ .Title }} weiterlesen">Weiterlesen →</a>
+      </article>
+    {{ else }}
+      <p>In dieser Rubrik sind noch keine Beiträge erschienen.</p>
+    {{ end }}
+  </div>
+{{ end }}
+
