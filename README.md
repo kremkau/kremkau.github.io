@@ -241,7 +241,7 @@ Spitzenkandidatur
   </time>
 </p>
 <p style="text-align: justify;">
-Ich bin mit sofortiger Wirkung als Beisitzer im Landesvorstand von BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt zurückgetreten, da ich meine Rolle dort zunehmend als wenig konstruktiv erlebt habe. Mein politisches Engagement setze ich weiterhin mit Fokus auf den Wahlkampf in der Altmark fort.
+Warum politische Wirklichkeit häufig schon in dem Moment entsteht, in dem jemand einen Anspruch klar formuliert, eine Idee öffentlich zur Debatte stellt und deutlich macht, selbst Verantwortung für ihre Umsetzung übernehmen zu wollen.
 </p>
 <a href="https://kremkau.github.io/spitzenkandidatur">Weiterlesen</a>
 </article>
@@ -279,7 +279,7 @@ Lesung zu »Die neue Mauer«
   </time>
 </p>
 <p style="text-align: justify;">
-Ich habe Instagram erneut verlassen, weil politische Sichtbarkeit für mich nicht jede Plattformlogik rechtfertigt. Künftig möchte ich digital unabhängiger kommunizieren – vor allem über Mastodon, mein Blog und direkte Gespräche.
+Gedanken nach einer Lesung von Ilko-Sascha Kowalczuk und Bodo Ramelow über die Rolle demokratischer Parteien, die Bedeutung politischer Beteiligung und die Frage, wie Demokratie im Osten stärker verankert und gemeinsam gestaltet werden kann.
 </p>
 <a href="https://kremkau.github.io/lesung-kowalczuk-ramelow">Weiterlesen</a>
 </article>
