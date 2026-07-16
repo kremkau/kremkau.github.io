@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="post h-entry">
+  <header class="post-header">
+    {{ if eq .Section "posts" }}
+      {{ with .GetTerms "rubriken" }}
+      <p class="eyebrow">
+        {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+      </p>
+      {{ end }}
+    {{ end }}
+    <h1 class="p-name">{{ .Title }}</h1>
+    {{ if eq .Section "posts" }}
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+      {{ with .Params.location }}<span aria-hidden="true">·</span> {{ . }}{{ end }}
+    </p>
+    {{ end }}
+  </header>
+  <div class="content e-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
+

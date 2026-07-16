@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if .IsHome }}{{ site.Title }} – {{ site.Params.description }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta name="author" content="{{ site.Params.author }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ site.Home.RelPermalink }}index.xml">
+    <meta property="og:site_name" content="{{ site.Title }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta name="twitter:card" content="summary">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="site-title" href="{{ site.Home.RelPermalink }}">Kremkaus Blog <span aria-hidden="true">🌻</span></a>
+        <p class="site-description">{{ site.Params.description }}</p>
+        <nav aria-label="Hauptnavigation">
+          <a href="{{ site.Home.RelPermalink }}">Start</a>
+          <a href="{{ "/rubriken/politik-und-demokratie/" | relURL }}">Politik</a>
+          <a href="{{ "/rubriken/land-und-leute/" | relURL }}">Land &amp; Leute</a>
+          <a href="{{ "/rubriken/persoenliche-notizen/" | relURL }}">Persönliches</a>
+          <a href="{{ "/ueber-mich/" | relURL }}">Über mich</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap">
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>© {{ now.Year }} Tobias Kremkau</span>
+        <span aria-hidden="true">·</span>
+        <a href="{{ "/impressum/" | relURL }}">Impressum</a>
+        <span aria-hidden="true">·</span>
+        <a href="{{ site.Home.RelPermalink }}index.xml">RSS</a>
+      </div>
+    </footer>
+  </body>
+</html>
+
