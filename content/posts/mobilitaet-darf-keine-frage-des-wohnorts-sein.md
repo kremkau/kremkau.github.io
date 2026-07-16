@@ -1,3 +1,4 @@
+---
 title: "Mobilität darf keine Frage des Wohnorts sein"
 date: 2026-07-16
 description: "Warum verlässliche Busse, Bahnen und Radwege in der Altmark keine Komfortfrage sind, sondern Voraussetzung für Freiheit und gesellschaftliche Teilhabe."
