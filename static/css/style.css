@@ -75,4 +75,11 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
   main { padding-top: 2.4rem; }
   nav { gap: .15rem; }
 }
+.all-posts-link {
+  margin-top: 2.5rem;
+  text-align: center;
+}
 
+.all-posts-link a {
+  font-weight: 700;
+}
