@@ -1,6 +1,5 @@
 {{ define "main" }}
   <header class="list-header">
-    <h1>{{ if .IsHome }}Neueste Beiträge{{ else }}{{ .Title }}{{ end }}</h1>
     {{ with .Content }}<div class="intro">{{ . }}</div>{{ end }}
   </header>
   <div class="post-list">
