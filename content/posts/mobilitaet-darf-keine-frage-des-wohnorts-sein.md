@@ -15,7 +15,7 @@ location: "Hansestadt Stendal"
 
 Ich lebe mit meiner Familie ohne eigenes Auto. Das funktioniert gut – aber eben nicht überall gleich gut. In Magdeburg ist vieles mit dem Fahrrad, der Straßenbahn oder zu Fuß erreichbar. In der Altmark sieht die Wirklichkeit anders aus. Dort entscheidet der Fahrplan oft darüber, ob ein Termin überhaupt möglich ist.
 
-Als wir in Stendal lebten, war unser Lastenrad ein wichtiger Teil unseres Alltags. Mit ihm konnten wir die Kinder zur Kita bringen, einkaufen oder Wege innerhalb der Stadt erledigen. Aber ein Lastenrad ersetzt keinen Zug nach Salzwedel, keinen Bus nach Klötze und keine Verbindung in die vielen kleineren Orte der Region. Wer in der Altmark ohne Auto unterwegs ist, braucht deshalb vor allem eines: Zeit. Viel Zeit.
+Als wir in Stendal lebten, war das Lastenrad Stella der Freilligen-Agentur Altmark ein wichtiger Teil unseres Alltags. Mit ihm konnten wir die Kinder zur Kita bringen, einkaufen oder Wege innerhalb der Stadt erledigen. Aber ein Lastenrad ersetzt keinen Zug nach Salzwedel, keinen Bus nach Klötze und keine Verbindung in die vielen kleineren Orte der Region. Wer in der Altmark ohne Auto unterwegs ist, braucht deshalb vor allem eines: Zeit. Viel Zeit.
 
 Das ist kein individuelles Problem. Es ist eine politische Entscheidung.
 
@@ -57,7 +57,7 @@ Eine bessere Mobilitätspolitik richtet sich nicht gegen Menschen, die auf ein A
 
 Aber ebenso falsch ist es, alle Menschen zum Besitz eines Autos zu zwingen.
 
-Ein Auto kostet viel Geld. Es muss angeschafft, versichert, gewartet und betankt werden. Wer behauptet, das Auto sei auf dem Land Ausdruck persönlicher Freiheit, verschweigt, dass diese vermeintliche Freiheit für viele Menschen eine erhebliche finanzielle Belastung ist. Wirkliche Freiheit entsteht erst dann, wenn man eine Wahl hat.
+Ein Auto kostet viel Geld. Es muss angeschafft, versichert, gewartet und betankt oder geladen werden. Wer behauptet, das Auto sei auf dem Land Ausdruck persönlicher Freiheit, verschweigt, dass diese vermeintliche Freiheit für viele Menschen eine erhebliche finanzielle Belastung ist. Wirkliche Freiheit entsteht erst dann, wenn man eine Wahl hat.
 
 Ich möchte eine Altmark, in der niemand sein Leben um einen lückenhaften Fahrplan herum organisieren muss. Eine Region, in der Jugendliche selbstständig unterwegs sein können, ältere Menschen ihre Eigenständigkeit behalten und Familien nicht für jede kleine Strecke ins Auto steigen müssen.
 
