@@ -1,5 +1,5 @@
 ---
-title: "Politik und Demokratie"
-description: "Beiträge über Parteien, demokratisches Engagement und die politische Zukunft Sachsen-Anhalts."
+title: "Politik"
+description: "Beiträge über Politik, demokratisches Engagement und die politische Zukunft Sachsen-Anhalts."
 ---
 
