@@ -83,3 +83,6 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
 .all-posts-link a {
   font-weight: 700;
 }
+.site-footer p {
+  margin: 0.4rem 0;
+}
