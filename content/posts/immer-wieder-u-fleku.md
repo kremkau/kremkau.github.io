@@ -4,7 +4,7 @@ date: 2026-07-20
 draft: false
 description: "Warum mich ein Prager Brauhaus immer wieder anzieht, obwohl es mir dort eigentlich gar nicht gefällt."
 rubriken:
-  - "persoenliche-notizen"
+  - "Persönliche Notizen"
 tags:
   - "U Fleků"
   - "Prag"
@@ -15,15 +15,11 @@ location: "Prag"
 
 Am Sonntag war ich wieder einmal im U Fleků. Wie bei fast jedem meiner Prag-Besuche in den vergangenen dreißig Jahren. Und wie eigentlich jedes Mal verließ ich das traditionsreiche Brauhaus mit dem Gefühl, dass es mir dort gar nicht besonders gut gefällt.
 
-Das Essen schmeckt bestenfalls mittelmäßig. Die Kellner wirken stets gehetzt, bisweilen auch etwas ungehalten. Das dunkle Bier wird einem beinahe schneller hingestellt, als man es bestellen kann. Und mit jedem Besuch scheint das U Fleků noch ein wenig touristischer zu werden. Dieses Mal saßen sechs junge Spanierinnen am Nebentisch – ein Bild, das sich merkwürdig mit meiner Vorstellung von diesem Ort rieb.
-
-Wobei das selbstverständlich mehr über meine Vorstellung erzählt als über die sechs Frauen. Schließlich war auch ich als Tourist dort. Wie so viele andere wollte ich für einen Moment an einem Ort sitzen, den ich mit einer bestimmten Geschichte und Bedeutung verbinde. Vielleicht besteht der eigentliche Erfolg des U Fleků gerade darin, dass Menschen aus aller Welt glauben, dort etwas vom alten Prag finden zu können. Auch wenn sie am Ende vor allem andere Menschen treffen, die nach genau demselben Prag suchen.
+Das Essen schmeckt bestenfalls mittelmäßig. Die Kellner wirken stets gehetzt, bisweilen auch etwas ungehalten. Das dunkle Bier wird einem stets schneller hingestellt, als man es überhaupt bestellen möchte. Und mit jedem Besuch scheint das U Fleků noch ein wenig touristischer zu werden. Dieses Mal saßen sechs junge Spanierinnen am Nebentisch – ein Bild, das sich nicht gerade mit meiner Vorstellung von diesem Ort vertrug. Wobei das selbstverständlich mehr über meine Vorstellung erzählt als über die sechs Frauen. Schließlich war auch ich als Tourist dort. 
 
 Trotz allem zieht es mich immer wieder dorthin. Nicht wegen des Essens, nicht wegen des Services und vermutlich nicht einmal wegen des Bieres. Für mich ist das U Fleků ein Erinnerungsort – obwohl ich selbst keine Erinnerung an jene Zeit haben kann, die ihn für mich bedeutsam macht.
 
-Ich wurde 1985 geboren. Als in den späten 1970er- und frühen 1980er-Jahren Hunderte unangepasste Jugendliche aus der DDR zu Ostern nach Prag reisten und sich im U Fleků trafen, war ich noch nicht auf der Welt oder viel zu klein, um etwas davon mitzubekommen. Blueser, Kunden, Tramperinnen und Tramper kamen hier zusammen: Menschen mit langen Haaren, Jeansjacken und Parkas, die dem grauen, reglementierten DDR-Alltag zumindest für einige Tage entkommen wollten. Prag lag im sozialistischen Ausland und war erreichbar – und bot ihnen dennoch ein Stück jener Freiheit, die zu Hause fehlte.
-
-![Ein bärtiger Mann im schwarzen T-Shirt sitzt vor einer dunklen Holzwand im Prager Brauhaus U Fleků und hebt lächelnd einen fast leeren Glaskrug mit dunklem Bier.](IMG_0014.jpeg)
+Ich wurde 1985 geboren. Als in den späten 1970er- und frühen 1980er-Jahren Hunderte unangepasste Jugendliche aus der DDR nach Prag reisten und sich im U Fleků trafen, war ich noch nicht auf der Welt oder viel zu klein, um etwas davon mitzubekommen. Blueser, Kunden, Tramperinnen und Tramper kamen hier zusammen: Menschen mit langen Haaren, Jeansjacken und Parkas, die dem grauen, reglementierten DDR-Alltag zumindest für einige Tage entkommen wollten. Prag lag im sozialistischen Ausland und war erreichbar – und bot ihnen dennoch ein Stück jener Freiheit, die zu Hause fehlte.
 
 Von der Bedeutung dieses Ortes weiß ich aus den Erzählungen meiner Eltern. Es ist also keine eigene Erinnerung, die mich mit dem U Fleků verbindet, sondern eine übernommene. Eine Erinnerung zweiter Generation, wenn man so will. Und vielleicht ist gerade das der Grund, warum mich dieser Ort nicht loslässt.
 
