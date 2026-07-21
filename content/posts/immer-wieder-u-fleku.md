@@ -3,6 +3,14 @@ title: "Immer wieder U Fleků"
 date: 2026-07-21
 draft: true
 description: "Warum mich ein Prager Brauhaus immer wieder anzieht, obwohl es mir dort eigentlich gar nicht gefällt."
+rubriken:
+  - "Persönliche Notizen"
+tags:
+  - "U Fleků"
+  - "Prag"
+  - "DDR"
+  - "Erinnerungen"
+location: "Prag"
 ---
 
 Am Sonntag war ich wieder einmal im U Fleků. Wie bei fast jedem meiner Prag-Besuche in den vergangenen dreißig Jahren. Und wie eigentlich jedes Mal verließ ich das traditionsreiche Brauhaus mit dem Gefühl, dass es mir dort gar nicht besonders gut gefällt.
