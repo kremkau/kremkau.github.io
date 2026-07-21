@@ -1,6 +1,6 @@
 ---
 title: "Immer wieder U Fleků"
-date: 2026-07-21
+date: 2026-07-20
 draft: true
 description: "Warum mich ein Prager Brauhaus immer wieder anzieht, obwohl es mir dort eigentlich gar nicht gefällt."
 rubriken:
