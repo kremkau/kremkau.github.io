@@ -23,6 +23,8 @@ Trotz allem zieht es mich immer wieder dorthin. Nicht wegen des Essens, nicht we
 
 Ich wurde 1985 geboren. Als in den späten 1970er- und frühen 1980er-Jahren Hunderte unangepasste Jugendliche aus der DDR zu Ostern nach Prag reisten und sich im U Fleků trafen, war ich noch nicht auf der Welt oder viel zu klein, um etwas davon mitzubekommen. Blueser, Kunden, Tramperinnen und Tramper kamen hier zusammen: Menschen mit langen Haaren, Jeansjacken und Parkas, die dem grauen, reglementierten DDR-Alltag zumindest für einige Tage entkommen wollten. Prag lag im sozialistischen Ausland und war erreichbar – und bot ihnen dennoch ein Stück jener Freiheit, die zu Hause fehlte.
 
+![Ein bärtiger Mann im schwarzen T-Shirt sitzt vor einer dunklen Holzwand im Prager Brauhaus U Fleků und hebt lächelnd einen fast leeren Glaskrug mit dunklem Bier.](IMG_0014.jpeg)
+
 Von der Bedeutung dieses Ortes weiß ich aus den Erzählungen meiner Eltern. Es ist also keine eigene Erinnerung, die mich mit dem U Fleků verbindet, sondern eine übernommene. Eine Erinnerung zweiter Generation, wenn man so will. Und vielleicht ist gerade das der Grund, warum mich dieser Ort nicht loslässt.
 
 Denn ostdeutsche Geschichte besteht nicht allein aus den großen Daten, den politischen Beschlüssen und den Bildern von Mauer, Grenzübergängen und Montagsdemonstrationen. Sie steckt auch in solchen Orten. In Kneipen, Dorfsälen, Jugendklubs und Bahnhöfen. In den Geschichten von Konzerten, Reisen und Begegnungen. In den kleinen Fluchten aus einem Alltag, der Anpassung verlangte, und in der Erfahrung, für einige Stunden unter Gleichgesinnten sein zu können.
