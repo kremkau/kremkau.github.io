@@ -86,3 +86,26 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
 .site-footer p {
   margin: 0.3rem 0;
 }
+
+.post-figure {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.post-figure--portrait {
+  max-width: 38rem;
+}
+
+.post-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.4rem;
+}
+
+.post-figure figcaption {
+  margin-top: 0.6rem;
+  color: #666;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
