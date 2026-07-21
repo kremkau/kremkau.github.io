@@ -28,11 +28,17 @@ Denn ostdeutsche Geschichte besteht nicht allein aus den großen Daten, den poli
 
 Das heutige U Fleků hat mit jenem Treffpunkt vermutlich nur noch wenig gemeinsam. Wo einst die unangepasste DDR-Jugend ihre Nische suchte, sitzen heute Reisegruppen aus aller Welt. Vielleicht ist das ernüchternd. Vielleicht ist es aber auch schlicht der Lauf der Zeit. Orte bleiben selten so, wie wir sie aus Erzählungen kennen – und schon gar nicht so, wie wir sie uns vorstellen.
 
-{{< figure
-  src="/2026_Tobias-Kremkau_U-Fleku.jpeg"
-  alt="Ein bärtiger Mann hebt im Prager Brauhaus U Fleků einen Krug mit dunklem Bier."
-  caption="Im U Fleků in Prag, Juli 2026. Foto: privat"
->}}
+<figure class="post-figure post-figure--portrait">
+  <img
+    src="/2026_Tobias-Kremkau_U-Fleku.jpeg"
+    alt="Ein bärtiger Mann hebt im Prager Brauhaus U Fleků einen fast leeren Krug mit dunklem Bier."
+    width="1373"
+    height="1823"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>Im U Fleků in Prag, Juli 2026. Foto: privat</figcaption>
+</figure>
 
 Vielleicht gehe ich deshalb immer wieder hin: um zu prüfen, ob von jener Geschichte noch etwas zu spüren ist. Meistens finde ich wenig davon. Ein dunkles Bier, schwere Holztische, gestresste Kellner und immer neue Reisegruppen. Und doch sitze ich dort und denke an Menschen aus der DDR, die sich einst auf den Weg nach Prag machten, weil dieser Ort für sie ein kleines Stück Freiheit bedeutete.
 
