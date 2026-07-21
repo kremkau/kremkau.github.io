@@ -3,8 +3,8 @@ title: "Immer wieder U Fleků"
 date: 2026-07-20
 draft: false
 description: "Warum mich ein Prager Brauhaus immer wieder anzieht, obwohl es mir dort eigentlich gar nicht gefällt."
-rubriken:
-  - "Persönliche Notizen"
+  - "persoenliche-notizen"
+url: "/immer-wieder-u-fleku/"
 tags:
   - "U Fleků"
   - "Prag"
