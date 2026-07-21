@@ -56,7 +56,10 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
 .post-header { margin-bottom: 2.4rem; }
 .content p { margin: 1.15rem 0; }
 .content img { display: block; max-width: 100%; height: auto; margin: 2rem auto; border-radius: .15rem; }
-.content figure { margin: 2rem 0; }
+.content .post-figure {
+  margin: 2rem auto;
+  text-align: center;
+}
 .content figure img { margin-bottom: .55rem; }
 .content figcaption { color: var(--muted); font-size: .82rem; }
 .content blockquote { margin: 1.6rem 0; padding: .2rem 0 .2rem 1.2rem; border-left: .25rem solid var(--green); color: #3e4941; }
