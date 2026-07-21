@@ -6,6 +6,8 @@ description: "Warum mich ein Prager Brauhaus immer wieder anzieht, obwohl es mir
 rubriken:
   - "persoenliche-notizen"
 url: "/immer-wieder-u-fleku/"
+images:
+  - "/2026_Tobias-Kremkau_U-Fleku.jpeg"
 tags:
   - "U Fleků"
   - "Prag"
