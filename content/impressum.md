@@ -3,6 +3,9 @@ title: "Impressum"
 url: "/impressum/"
 aliases:
   - "/impressum.html"
+  - ---
+build:
+  list: never
 ---
 
 <p><b>Angaben gemäß § 5 DDG</b></p>
