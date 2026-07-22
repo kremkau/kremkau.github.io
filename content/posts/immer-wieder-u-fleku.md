@@ -7,7 +7,7 @@ rubriken:
   - "persoenliche-notizen"
 url: "/immer-wieder-u-fleku/"
 images:
-  - "/2026_Tobias-Kremkau_U-Fleku.jpeg"
+  - "/images/2026_Tobias-Kremkau_U-Fleku.jpeg"
 tags:
   - "U Fleků"
   - "Prag"
@@ -32,7 +32,7 @@ Das heutige U Fleků hat mit jenem Treffpunkt vermutlich nur noch wenig gemeinsa
 
 <figure class="post-figure post-figure--portrait">
   <img
-    src="/2026_Tobias-Kremkau_U-Fleku.jpeg"
+    src="/images/2026_Tobias-Kremkau_U-Fleku.jpeg"
     alt="Ein bärtiger Mann hebt im Prager Brauhaus U Fleků einen fast leeren Krug mit dunklem Bier."
     width="1373"
     height="1823"
