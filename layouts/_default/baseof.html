@@ -21,11 +21,8 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
   <body>
-    <header class="site-header">
-      <div class="wrap">
-        <header class="site-header">
+  <header class="site-header">
   <div class="wrap">
-
     <div class="blog-header-image">
       <img
         src="{{ "images/kremkaus-blog-header-altmark-v3.png" | relURL }}"
@@ -39,18 +36,18 @@
     <a class="site-title" href="{{ site.Home.RelPermalink }}">
       Kremkaus Blog <span aria-hidden="true">🌻</span>
     </a>
-        <a class="site-title" href="{{ site.Home.RelPermalink }}">Kremkaus Blog <span aria-hidden="true">🌻</span></a>
-        <p class="site-description">{{ site.Params.description }}</p>
-        <nav aria-label="Hauptnavigation">
-          <a href="{{ site.Home.RelPermalink }}">Start</a>
-          <a href="{{ "/rubriken/politik-und-demokratie/" | relURL }}">Politik</a>
-          <a href="{{ "/rubriken/land-und-leute/" | relURL }}">Land &amp; Leute</a>
-          <a href="{{ "/rubriken/persoenliche-notizen/" | relURL }}">Persönliches</a>
-          <a href="{{ "/ueber-mich/" | relURL }}">Über mich</a>
-        </nav>
-      </div>
-    </header>
-    <main class="wrap">
+
+    <p class="site-description">{{ site.Params.description }}</p>
+
+    <nav aria-label="Hauptnavigation">
+      <a href="{{ site.Home.RelPermalink }}">Start</a>
+      <a href="{{ "/rubriken/politik-und-demokratie/" | relURL }}">Politik</a>
+      <a href="{{ "/rubriken/land-und-leute/" | relURL }}">Land &amp; Leute</a>
+      <a href="{{ "/rubriken/persoenliche-notizen/" | relURL }}">Persönliches</a>
+      <a href="{{ "/ueber-mich/" | relURL }}">Über mich</a>
+    </nav>
+  </div>
+</header>
       {{ block "main" . }}{{ end }}
     </main>
    <footer class="site-footer">
