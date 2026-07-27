@@ -16,7 +16,7 @@ tags:
 
 Bis vor Kurzem lag meine DWZ bei 1592. Das waren rund 150 Punkte mehr als im Herbst 2022, als ich nach längerer Pause wieder mit dem Schachspielen angefangen hatte.
 
-Die DWZ, kurz für Deutsche Wertungszahl, soll die Spielstärke eines Schachspielers abbilden. Wer gewinnt – insbesondere gegen stärkere Gegner –, verbessert seine Wertungszahl. Auf diese Weise lassen sich Spieler miteinander vergleichen. Die DWZ ist das Wertungssystem des Deutschen Schachbundes und funktioniert ähnlich wie die internationale Elo-Zahl.
+Die DWZ, kurz für Deutsche Wertungszahl, soll die Spielstärke eines Schachspielers abbilden. Wer gewinnt – insbesondere gegen stärkere Gegner –, verbessert seine Wertungszahl. Auf diese Weise lassen sich Spieler miteinander vergleichen. Die DWZ ist das Wertungssystem des Deutschen Schachbundes (DSB) und funktioniert ähnlich wie die internationale Elo-Zahl.
 
 Für mich war diese Zahl lange etwas recht Statisches. Bis zum vergangenen Jahr spielte ich ausschließlich im Ligabetrieb. Das bedeutete neun Partien pro Saison und in der Regel eine neue DWZ am Ende der Spielzeit. Viel Bewegung kam dadurch nicht in die Zahl – unabhängig davon, wie viel ich zwischen den Mannschaftskämpfen spielte, trainierte oder über Schach nachdachte.
 
