@@ -60,3 +60,17 @@ Trotzdem war der Kontrast bemerkenswert: Auf der einen Seite stehen Umfragen, in
 Das lag nicht daran, dass sich die Kandidat*innen der demokratischen Parteien in allen Fragen einig gewesen wären. Im Gegenteil: Ihre politischen Unterschiede waren deutlich erkennbar. Aber ihre Antworten bewegten sich innerhalb einer gemeinsamen Wirklichkeit. Sie ließen sich an Fakten, Programmen und konkreten Folgen messen. Sie waren Ausdruck jenes gesunden Menschenverstandes, der sich einstellt, wenn man politische Behauptungen nicht nur beklatscht, sondern für einen Moment zu Ende denkt.
 
 Entscheidend wird sein, dass diese Vernunft nicht nur in der Hyparschale zu spüren ist. Der gesunde Menschenverstand muss am 6. September auch an den Wahlurnen sichtbar werden.
+
+<hr>
+<i>Das vollständige Wahlforum kann hier noch einmal angesehen werden:</i>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/LQWRBiwIhiw?si=alFCA0eC8zNapIbO"
+    title="Aufzeichnung des RND-Wahlforums in Magdeburg"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<hr>
