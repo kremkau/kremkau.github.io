@@ -13,8 +13,6 @@ tags:
   - Turnierschach
 ---
 
-# Meine bislang höchste DWZ
-
 Bis vor Kurzem lag meine DWZ bei 1592. Das waren rund 150 Punkte mehr als im Herbst 2022, als ich nach längerer Pause wieder mit dem Schachspielen angefangen hatte.
 
 Die DWZ, kurz für Deutsche Wertungszahl, soll die Spielstärke eines Schachspielers abbilden. Wer gewinnt – insbesondere gegen stärkere Gegner –, verbessert seine Wertungszahl. Auf diese Weise lassen sich Spieler miteinander vergleichen. Die DWZ ist das Wertungssystem des Deutschen Schachbundes und funktioniert ähnlich wie die internationale Elo-Zahl.
