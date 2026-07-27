@@ -30,7 +30,7 @@ Vom Haltepunkt Neinstedt wanderten wir knapp drei Kilometer nach Stecklenberg. D
 
 Für eine Wanderung mit Kindern war das ausgesprochen hilfreich. Statt nach der verbleibenden Strecke zu fragen, waren sie damit beschäftigt, die nächsten reifen Früchte zu entdecken. So standen wir beinahe unvermittelt vor dem Spielplatz in Stecklenberg, unserem ersten Zwischenziel.
 
-Während meine Frau und ich uns im Schatten der [Dorfkirche Stecklenberg](https://www.harzinfo.de/erlebnisse/poi/dorfkirche-stecklenberg) ausruhten, probierten unsere Kinder die beiden auffallend steilen Rutschen und die Schaukel aus. Abkühlung fanden wir an der Calciumquelle im Kurpark. Von ihr führt eine kleine Wasserachse in Richtung Kirche.
+Während meine Frau und ich uns im Schatten der <a href="https://www.harzinfo.de/erlebnisse/poi/dorfkirche-stecklenberg" target="_blank" rel="noopener noreferrer">Dorfkirche Stecklenberg</a> ausruhten, probierten unsere Kinder die beiden auffallend steilen Rutschen und die Schaukel aus. Abkühlung fanden wir an der Calciumquelle im Kurpark. Von ihr führt eine kleine Wasserachse in Richtung Kirche.
 
 Direkt neben dem Spielplatz steht außerdem ein naturgetreues Modell der Lauenburg im Maßstab 1:20. So konnten wir bereits im Kleinen betrachten, was später noch eines der Ziele unserer Wanderung auf dem Zwei-Burgen-Rundweg werden sollte.
 
