@@ -60,10 +60,29 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
   margin: 2rem auto;
   text-align: center;
 }
-.content figure img { margin-bottom: .55rem; }
-.content figcaption { color: var(--muted); font-size: .82rem; }
-.content blockquote { margin: 1.6rem 0; padding: .2rem 0 .2rem 1.2rem; border-left: .25rem solid var(--green); color: #3e4941; }
-.content hr { margin: 2.5rem 0; border: 0; border-top: 1px solid var(--line); }
+.content .post-figure {
+  margin: 2rem auto 2.75rem;
+  text-align: center;
+}
+
+.content .post-figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 0.4rem;
+  border-radius: 0.15rem;
+}
+
+.content .post-figure figcaption {
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.content .post-figure figcaption p {
+  margin: 0;
+}
 
 .term-list { padding: 0; list-style: none; }
 .term-list li { display: flex; justify-content: space-between; gap: 1rem; padding: .8rem 0; border-bottom: 1px solid var(--line); }
