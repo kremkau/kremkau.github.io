@@ -22,7 +22,7 @@ build:
 <p><i>Anschrift wie oben</i></p>
 <br>
 <p><b>Urheberrecht und Bildlizenzen</b></p> 
-<p>Die auf dieser Website veröffentlichten Bilder stehen, sofern nicht anders gekennzeichnet, unter der Lizenz [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de).</p>
+<p>Die auf dieser Website veröffentlichten Bilder stehen, sofern nicht anders gekennzeichnet, unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank" rel="noopener noreferrer">Creative Commons Namensnennung 4.0 International (CC BY 4.0)</a>.</p>
 
 <p>Sie dürfen unter den Bedingungen dieser Lizenz geteilt und bearbeitet werden. Als Urheber ist „Tobias Kremkau“ zu nennen.</p>
 
