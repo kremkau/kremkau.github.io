@@ -67,8 +67,8 @@ Das lag nicht daran, dass sich die Kandidat*innen der demokratischen Parteien in
 Entscheidend wird sein, dass diese Vernunft nicht nur in der Hyparschale zu spüren ist. Der gesunde Menschenverstand muss am 6. September auch an den Wahlurnen sichtbar werden.
 <br>
 <hr>
-<br>
 <i>Das vollständige Wahlforum kann hier noch einmal angesehen werden:</i>
+<br>
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://www.youtube.com/embed/LQWRBiwIhiw?si=alFCA0eC8zNapIbO"
