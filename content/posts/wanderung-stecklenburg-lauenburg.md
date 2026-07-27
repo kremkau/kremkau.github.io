@@ -25,6 +25,9 @@ Von Magdeburg fuhren wir zunächst mit der Regionalbahn nach Neinstedt, einem Ha
 
 Vom Haltepunkt Neinstedt wanderten wir knapp drei Kilometer nach Stecklenberg. Der Weg führte uns an der Kirche St. Katharinen und am Kahlenberg vorbei auf den Poetensteig. Besonders schön war der Feldweg zwischen Neinstedt und Stecklenberg. An seinen Rändern wuchsen Pflaumen, Mirabellen und Brombeeren – ein regelrechter Genusspfad.
 
+![Brombeeren am Wegweiser zum Nelkenstein](/images/nelkenstein-mit-brombeeren.jpeg)
+*Brombeerbusch am Nelkenstein.*
+
 Für eine Wanderung mit Kindern war das ausgesprochen hilfreich. Statt nach der verbleibenden Strecke zu fragen, waren sie damit beschäftigt, die nächsten reifen Früchte zu entdecken. So standen wir beinahe unvermittelt vor dem Spielplatz in Stecklenberg, unserem ersten Zwischenziel.
 
 Während meine Frau und ich uns im Schatten der [Dorfkirche Stecklenberg](https://www.harzinfo.de/erlebnisse/poi/dorfkirche-stecklenberg) ausruhten, probierten unsere Kinder die beiden auffallend steilen Rutschen und die Schaukel aus. Abkühlung fanden wir an der Calciumquelle im Kurpark. Von ihr führt eine kleine Wasserachse in Richtung Kirche.
@@ -36,6 +39,9 @@ Direkt neben dem Spielplatz steht außerdem ein naturgetreues Modell der Lauenbu
 Zunächst ging es jedoch auf den Berg, dem Stecklenberg seinen Namen verdankt. Dort befinden sich die Reste der [Stecklenburg](https://de.wikipedia.org/wiki/Stecklenburg). Der Aufstieg beginnt unmittelbar neben den beiden Rutschen mit einer Treppe. Mit rund 230 Metern ist der Weg zwar kurz, auf dieser Strecke werden jedoch etwa 56 Höhenmeter überwunden. Wir schafften den Aufstieg trotzdem in weniger als zehn Minuten.
 
 Oben informiert eine Tafel über die Geschichte der Höhenburg aus dem 11. Jahrhundert. Es gibt außerdem einen überdachten Picknickplatz und zahlreiche kleine Schleichwege durch die imposanten Mauerreste. Gerade für Kinder ist die Ruine deshalb mehr als eine historische Sehenswürdigkeit: Sie lässt sich erkunden, durchqueren und beinahe wie ein Abenteuerspielplatz erleben.
+
+![Mauerreste der Stecklenburg](/images/ruine-stecklenburg.jpeg)
+*Wie ein kleiner Abenteuerspielplatz: die Ruine der Stecklenburg*
 
 ## Durch den Wald zur Lauenburg
 
@@ -54,6 +60,9 @@ Die sogenannte [Hexenlinde](https://harzspots.com/blog/3-naturwunder-im-harz/), 
 ## Steil zurück nach Stecklenberg
 
 Für den Rückweg wählten wir den nördlichen, etwa 1,3 Kilometer langen Wanderweg hinunter vom Rambergmassiv. Über weite Strecken führt er beständig bergab. Insgesamt ging es rund 171 Höhenmeter hinunter, stellenweise sehr steil. Einige Hundert Meter vor der Stecklenburg wechselten wir auf den sogenannten Zick-Zack-Weg, der direkt an der oberen Rutsche des Spielplatzes endet.
+
+![Der Spielplatz in Stecklenberg](/images/spielplatz-stecklenberg.jpeg)
+*Sehr empfehlenswert: der Spielplatz in Stecklenberg.*
 
 Dieser Abschnitt war anspruchsvoller, als wir erwartet hatten. Trotz geeigneter Schuhe und Wanderstöcke mussten wir aufmerksam und vorsichtig gehen. Bei Nässe oder anderen ungünstigen Wetterbedingungen würde ich Familien eher empfehlen, den Zick-Zack-Weg zu meiden und stattdessen den längeren, westlich verlaufenden Weg zum Ortsrand von Stecklenberg zu nehmen.
 
