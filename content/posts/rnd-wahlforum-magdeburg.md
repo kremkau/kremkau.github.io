@@ -4,7 +4,7 @@ date: 2026-07-28
 location: "Magdeburg"
 slug: „rnd-wahlforum-magdeburg“
 rubriken: "Politik und Demokratie"
-description: "Beim Wahlforum des des Redaktionsnetzwerks Deutschlandin der Magdeburger Hyparschale trafen demokratische Politik und rechtspopulistische Inszenierung aufeinander. Ein persönlicher Eindruck von einem Abend zwischen Wahlprogramm, Wirklichkeit und gesundem Menschenverstand."
+description: "Beim Wahlforum des Redaktionsnetzwerks Deutschland in der Magdeburger Hyparschale trafen demokratische Politik und rechtspopulistische Inszenierung aufeinander. Ein persönlicher Eindruck von einem Abend zwischen Wahlprogramm, Wirklichkeit und gesundem Menschenverstand."
 tags:
   - Landtagswahl 2026
   - Sachsen-Anhalt
