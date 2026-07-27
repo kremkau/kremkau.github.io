@@ -57,8 +57,4 @@ Für den Rückweg wählten wir den nördlichen, etwa 1,3 Kilometer langen Wander
 
 Dieser Abschnitt war anspruchsvoller, als wir erwartet hatten. Trotz geeigneter Schuhe und Wanderstöcke mussten wir aufmerksam und vorsichtig gehen. Bei Nässe oder anderen ungünstigen Wetterbedingungen würde ich Familien eher empfehlen, den Zick-Zack-Weg zu meiden und stattdessen den längeren Weg zum Ortsrand von Stecklenberg zu nehmen.
 
-Als wir wieder am Spielplatz ankamen, waren die Kinder sichtlich geschafft. Den knapp drei Kilometer langen Rückweg über den Feldweg nach Neinstedt – trotz seiner Pflaumen, Mirabellen und Brombeeren – ersparten wir uns deshalb. Weniger als 100 Meter von der Calciumquelle entfernt befindet sich eine Bushaltestelle. Von dort fuhren wir über Neinstedt weiter nach Thale.
-
-Das hatte noch einen angenehmen Nebeneffekt: In Thale gab es für alle ein Eis, bevor wir in den Zug zurück nach Magdeburg stiegen.
-
-Am Ende waren es nicht nur die Burgruinen oder die Aussicht, die diesen Ausflug besonders gemacht haben. Es war die Mischung aus Bahnreise, Naschen am Wegesrand, Spielplatz, kleinen Entdeckungen und einem echten Bergabenteuer. Vielleicht liegt genau darin das Geheimnis einer gelungenen Familienwanderung: nicht möglichst weit zu kommen, sondern unterwegs genug zu finden, das einen gemeinsam weitergehen lässt.
+Als wir wieder am Spielplatz ankamen, waren die Kinder sichtlich geschafft. Den knapp drei Kilometer langen Rückweg über den Feldweg nach Neinstedt – trotz seiner Pflaumen, Mirabellen und Brombeeren – ersparten wir uns deshalb. Weniger als 100 Meter von der Calciumquelle entfernt befindet sich eine Bushaltestelle. Von dort fuhren wir über Neinstedt weiter nach Thale. Das hatte noch einen angenehmen Nebeneffekt: In Thale gab es für alle ein Eis, bevor wir in den Zug zurück nach Magdeburg stiegen.
