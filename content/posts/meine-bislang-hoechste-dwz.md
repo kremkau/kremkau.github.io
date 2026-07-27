@@ -3,7 +3,8 @@ title: "Meine bislang höchste DWZ"
 date: 2026-07-27
 location: "Magdeburg"
 slug: "meine-bislang-hoechste-dwz"
-category: "Persönliche Notizen"
+rubriken:
+  - "persoenliche-notizen"
 description: "Meine DWZ ist auf 1779 gestiegen. Was hinter der neuen Zahl steckt – und warum sich mit dem neuen Berechnungssystem auch der Blick auf die Spielstärke verändert."
 tags:
   - Schach
