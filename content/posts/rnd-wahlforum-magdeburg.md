@@ -12,10 +12,15 @@ tags:
   - Hyparschale
   - Demokratie
   - Rechtspopulismus
+  - Wahlforum
 ---
 
-![Das RND-Wahlforum in der Magdeburger Hyparschale](/images/rnd-wahlforum-hyparschale-magdeburg.jpeg)
-*Das RND-Wahlforum am 27. Juli 2026 in Magdeburg*
+{{< figure
+  src="/images/rnd-wahlforum-hyparschale-magdeburg.jpeg"
+  alt="Zwei Moderatorinnen und sechs Politikerinnen und Politiker stehen bei einer Podiumsdiskussion des Redaktionsnetzwerks Deutschland auf einer Bühne hinter mehreren Stehtischen. Eine Frau spricht ins Mikrofon und gestikuliert. Im Vordergrund verfolgt das Publikum die Debatte; die Bühnenkulisse zeigt das Magdeburger Stadtpanorama mit dem Dom und die Aufschrift „rnd vor Ort“."
+  caption="Das RND-Wahlforum am 27. Juli 2026 in Magdeburg."
+  class="post-figure"
+>}}
 
 Gestern Abend war ich als Gast beim Wahlforum des Redaktionsnetzwerks Deutschland in der Magdeburger Hyparschale. Sechs Wochen vor der Landtagswahl in Sachsen-Anhalt trafen dort die Spitzenkandidat*innen der im Landtag vertretenen Parteien aufeinander: Sven Schulze für die CDU, Ulrich Siegmund für die AfD, Lydia Hüskens für die FDP, Susan Sziborra-Seidlitz für BÜNDNIS 90/DIE GRÜNEN und Armin Willingmann für die SPD. Für Die Linke nahm deren Co-Landesvorsitzender Hendrik Lange in Vertretung von Spitzenkandidatin Eva von Angern teil.
 
