@@ -16,9 +16,18 @@
     </p>
     {{ end }}
   </header>
-  <div class="content e-content">
-    {{ .Content }}
-  </div>
+ <div class="content e-content">
+  {{ .Content }}
+</div>
+
+{{ with .GetTerms "tags" }}
+  <footer class="post-tags" aria-label="Schlagwörter">
+    <span>Tags:</span>
+    {{ range . }}
+      <a href="{{ .RelPermalink }}" rel="tag">#{{ .LinkTitle }}</a>
+    {{ end }}
+  </footer>
+{{ end }}
 </article>
 {{ end }}
 
