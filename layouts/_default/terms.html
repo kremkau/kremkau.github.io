@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <header class="list-header"><h1>Rubriken</h1></header>
+<header class="list-header"><h1>{{ .Title }}</h1></header>
   <ul class="term-list">
     {{ range .Data.Terms.Alphabetical }}
       <li><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> <span>{{ .Count }} Beiträge</span></li>
