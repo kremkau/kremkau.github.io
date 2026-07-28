@@ -1,5 +1,5 @@
 ---
-title: "Drei Siege in Folge beim DSAM-Cup in Magdeburg"
+title: "Magdeburger DSAM-Cup 2026"
 date: 2026-05-03
 description: "Nach einem unglücklichen Auftakt beim DSAM-Cup in Magdeburg gelingen mir drei Siege in Folge, 3,5 Punkte und meine erste Elo."
 location: "Magdeburg"
