@@ -1,11 +1,11 @@
 ---
-title: „Magdeburger DSAM-Cup 2026“
+title: "Drei Siege in Folge beim DSAM-Cup in Magdeburg"
 date: 2026-05-03
+description: "Nach einem unglücklichen Auftakt beim DSAM-Cup in Magdeburg gelingen mir drei Siege in Folge, 3,5 Punkte und meine erste Elo."
 location: "Magdeburg"
 slug: "magdeburg-dsam-2026"
 rubriken:
   - "persoenliche-notizen"
-description: "Nach einem unglücklichen Auftakt beim DSAM-Cup in Magdeburg gelingen mir drei Siege in Folge und damit ein gutes Schachturnier.“
 tags:
   - Schach
   - DSAM
