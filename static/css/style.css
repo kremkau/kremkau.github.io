@@ -142,3 +142,15 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
   width: 100%;
   height: auto;
 }
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin-top: 2rem;
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+.post-tags a {
+  text-decoration: none;
+}
