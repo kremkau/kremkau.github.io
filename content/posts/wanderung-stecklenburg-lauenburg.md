@@ -12,8 +12,6 @@ tags:
   - Familienausflug
   - Neinstedt
   - Stecklenberg
-  - Stecklenburg
-  - Lauenburg
 ---
 
 
