@@ -34,8 +34,8 @@ In der dritten Runde spielte ich mit Weiß gegen einen Schachfreund aus Flechtin
 {{< figure
   src="/images/2026-dsam-magdeburg_kremkau-wiedemann.jpeg"
   alt="Screenshot einer digitalen Schachpartie zwischen Tobias Kremkau und Thilo Wiedemann. Zu sehen ist ein Turmendspiel nach dem markierten schwarzen Zug …Tf5. Die Stellung wird mit +5,4 klar zugunsten von Weiß bewertet; der Partieausgang ist mit 1:0 angegeben."
-  caption="3. Runde: Kremkau - Wiedemann, 1:0“
-  class="post-figure"
+caption="3. Runde: Kremkau – Wiedemann, 1:0"
+class="post-figure"
 >}}
 
 Nach dem Zug des schwarzen Turms von f8 nach f5 war die Stellung meines Gegners nicht mehr zu halten, und ich gewann die Partie. Das war bedauerlich für meinen Gegenüber. Der vorausgegangene Kampf hatte uns beiden jedoch große Freude bereitet – und genau solche Partien sind schließlich der Grund, weshalb wir Turnierschach spielen.
@@ -46,9 +46,9 @@ Auch die zweite Partie des zweiten Turniertages konnte ich für mich entscheiden
 
 {{< figure
   src="/images/2026-dam-magdeburg_hoeblich-kremkau.jpeg"
-  alt="Screenshot einer digitalen Schachpartie zwischen Tobias Kremkau (Weiß, 1708) und Jannik Höblich (Schwarz, 1632), Spielstand 1:0. Gezeigt ist eine komplexe Mittelspielstellung. Der weiße Bauer auf g6 ist hervorgehoben; die Engine-Bewertung zeigt Vorteil für Schwarz (−2,6)."
-  caption="4. Runde: Höblich - Kremkau, 0:1“
-  class="post-figure"
+  alt="Screenshot einer digitalen Schachpartie zwischen Jannik Höblich (Weiß, 1632) und Tobias Kremkau (Schwarz, 1708), Spielstand 0:1. Gezeigt ist eine komplexe Mittelspielstellung. Der weiße Bauer auf g6 ist hervorgehoben; die Engine-Bewertung zeigt Vorteil für Schwarz (−2,6)."
+caption="4. Runde: Höblich – Kremkau, 0:1"
+class="post-figure"
 >}}
 
 Dann unterlief meinem Gegner im 27. Zug der entscheidende Fehler: Er zog den Bauern nach g6, statt den Randbauern nach h6 zu spielen. Die Partie kippte zu meinen Gunsten, und auf einmal stand ich bei 2,5 Punkten aus vier Partien.
@@ -57,4 +57,4 @@ Dann unterlief meinem Gegner im 27. Zug der entscheidende Fehler: Er zog den Bau
 
 In der fünften und letzten Runde hatte ich schließlich ein gewonnenes, aber technisch anspruchsvolles Endspiel auf dem Brett. Dieses Mal ließ ich nichts mehr anbrennen und brachte den Vorteil konsequent nach Hause.
 
-Damit gewann ich meine letzten drei Partien in Folge und beendete den DSAM-Cup mit 3,5 Punkten aus fünf Partien. Nach dem Fehlstart am Freitag bin ich mit diesem Ergebnis wirklich sehr zufrieden. Es wird meiner DWZ und meiner ELO einen großen Schub geben.
+Damit gewann ich meine letzten drei Partien in Folge und beendete den DSAM-Cup mit 3,5 Punkten aus fünf Partien. Nach dem Fehlstart am Freitag bin ich mit diesem Ergebnis wirklich sehr zufrieden. Es wird meiner DWZ und meiner Elo einen großen Schub geben.
