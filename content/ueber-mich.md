@@ -7,7 +7,12 @@ build:
   list: never
 ---
 
-<img alt="Tobias Kremkau vor dem ICE 2 mit dem Namen Stendal" src="https://github.com/user-attachments/assets/f0c7263d-18a7-4e63-aa81-55805579caf6" width="100%">
+{{< figure
+  src="/images/Tobias-Kremkau_Stendal-ICE.jpeg"
+  alt="Selfie von Tobias Kremkau am Bahnhof Stendal vor einem weißen ICE mit rotem Streifen und der Aufschrift „Stendal“."
+  caption="Selfie vorm dem ICE 2 "Stendal", 08.09.2024"
+  class="post-figure"
+>}}
 
 <p style="text-align: justify;">Mein Name ist Tobias Kremkau. Auf diesem Blog veröffentliche ich eigene Texte, Beobachtungen und Analysen zu Politik, Coworking, regionaler Entwicklung, Sachsen-Anhalt und ländlichen Räumen, sowie ab und zu über Schach.</p>
 
