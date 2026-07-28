@@ -32,7 +32,7 @@ Am Ende ließ er mir nur die Wahl zwischen dreifacher Stellungswiederholung und 
 In der dritten Runde spielte ich mit Weiß gegen einen Schachfreund aus Flechtingen. Es wurde eine intensive und über weite Strecken ausgeglichene Partie, die dreieinhalb Stunden dauerte. Wie so oft im Schach entschied am Ende ein einziger Fehler.
 
 {{< figure
-  src="/images/2026-dsam-magdeburg_kremkau-wiedemann.jpeg"
+  src="/images/2026-DSAM-Magdeburg_Kremkau-Wiedemann.jpeg"
   alt="Screenshot einer digitalen Schachpartie zwischen Tobias Kremkau und Thilo Wiedemann. Zu sehen ist ein Turmendspiel nach dem markierten schwarzen Zug …Tf5. Die Stellung wird mit +5,4 klar zugunsten von Weiß bewertet; der Partieausgang ist mit 1:0 angegeben."
 caption="3. Runde: Kremkau – Wiedemann, 1:0"
 class="post-figure"
@@ -45,7 +45,7 @@ Nach dem Zug des schwarzen Turms von f8 nach f5 war die Stellung meines Gegners 
 Auch die zweite Partie des zweiten Turniertages konnte ich für mich entscheiden. In der vierten Runde spielte ich mit Schwarz gegen einen ausgesprochen unorthodox spielenden Schachfreund aus Ochtendung. So recht fand ich nie ein Gefühl für die Stellung.
 
 {{< figure
-  src="/images/2026-dam-magdeburg_hoeblich-kremkau.jpeg"
+  src="/images/2026-DAM-Magdeburg_Hoeblich-Kremkau.jpeg"
   alt="Screenshot einer digitalen Schachpartie zwischen Jannik Höblich (Weiß, 1632) und Tobias Kremkau (Schwarz, 1708), Spielstand 0:1. Gezeigt ist eine komplexe Mittelspielstellung. Der weiße Bauer auf g6 ist hervorgehoben; die Engine-Bewertung zeigt Vorteil für Schwarz (−2,6)."
 caption="4. Runde: Höblich – Kremkau, 0:1"
 class="post-figure"
