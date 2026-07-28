@@ -10,7 +10,7 @@ build:
 {{< figure
   src="/images/Tobias-Kremkau_Stendal-ICE.jpeg"
   alt="Selfie von Tobias Kremkau am Bahnhof Stendal vor einem weißen ICE mit rotem Streifen und der Aufschrift „Stendal“."
-  caption="Selfie vorm dem ICE 2 Stendal, 08.09.2024"
+  caption="Selfie vor dem ICE 2 „Stendal“, 08.09.2024"
   class="post-figure"
 >}}
 
