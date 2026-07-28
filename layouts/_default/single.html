@@ -22,7 +22,7 @@
 
 {{ with .GetTerms "tags" }}
   <footer class="post-tags" aria-label="Schlagwörter">
-    <span>Tags:</span>
+   <strong>Tags:</strong>
     {{ range . }}
       <a href="{{ .RelPermalink }}" rel="tag">#{{ .LinkTitle }}</a>
     {{ end }}
