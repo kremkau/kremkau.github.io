@@ -34,7 +34,7 @@ In der dritten Runde spielte ich mit Weiß gegen einen Schachfreund aus Flechtin
 {{< figure
   src="/images/2026-DSAM-Magdeburg_Kremkau-Wiedemann.jpeg"
   alt="Screenshot einer digitalen Schachpartie zwischen Tobias Kremkau und Thilo Wiedemann. Zu sehen ist ein Turmendspiel nach dem markierten schwarzen Zug …Tf5. Die Stellung wird mit +5,4 klar zugunsten von Weiß bewertet; der Partieausgang ist mit 1:0 angegeben."
-caption="3. Runde: Kremkau – Wiedemann, 1:0"
+caption="Dritte Runde: Kremkau – Wiedemann, 1:0"
 class="post-figure"
 >}}
 
@@ -47,7 +47,7 @@ Auch die zweite Partie des zweiten Turniertages konnte ich für mich entscheiden
 {{< figure
   src="/images/2026-DAM-Magdeburg_Hoeblich-Kremkau.jpeg"
   alt="Screenshot einer digitalen Schachpartie zwischen Jannik Höblich (Weiß, 1632) und Tobias Kremkau (Schwarz, 1708), Spielstand 0:1. Gezeigt ist eine komplexe Mittelspielstellung. Der weiße Bauer auf g6 ist hervorgehoben; die Engine-Bewertung zeigt Vorteil für Schwarz (−2,6)."
-caption="4. Runde: Höblich – Kremkau, 0:1"
+caption="Vierte Runde: Höblich – Kremkau, 0:1"
 class="post-figure"
 >}}
 
