@@ -22,7 +22,7 @@ Sondertrikots scheinen im Fußball ein eigenes Feld zu sein. Immer wieder bekomm
 
 ## Backstein, Rost und der Handelshafen
 
-Aber zurück nach Magdeburg: Das neue [Auswärtstrikot](https://1.fc-magdeburg.de/news/detail/aus-magdeburg-in-die-welt) ist in einem eigentümlichen Rotbraun gehalten, das an Backstein und Rost erinnern soll. Es ist dem Magdeburger Handelshafen gewidmet und greift mit seiner Farbgebung und weiteren Details einen der erhaltenen Speicher am Hafenbecken auf.
+Aber zurück nach Magdeburg: Das neue<a href="[https://1.fc-magdeburg.de/news/detail/aus-der-platte](https://1.fc-magdeburg.de/news/detail/aus-magdeburg-in-die-welt)" target="_blank" rel="noopener noreferrer">Auswärtstrikot</a> ist in einem eigentümlichen Rotbraun gehalten, das an Backstein und Rost erinnern soll. Es ist dem Magdeburger Handelshafen gewidmet und greift mit seiner Farbgebung und weiteren Details einen der erhaltenen Speicher am Hafenbecken auf.
 
 {{< figure
   src="/images/FCM-Auswaertstrikot_26-27.jpg"
@@ -37,7 +37,7 @@ Mit solchen Geschichten bekommt man mich. Und mich freut der Gedanke, dass sich 
 
 ## Die Platte als Stück Zuhause
 
-Ähnlich verhält es sich mit dem heute vorgestellten [Ausweichtrikot]([https://www.merchandising-onlineshop.com/fc-magdeburg/trikots-24-25/trikots-26-27.html?pcate=1](https://1.fc-magdeburg.de/news/detail/aus-der-platte)). Es ist schwarz und spielt in seinen Details auf die Platte an – auf eine Wohnform, die Magdeburg bis heute prägt und untrennbar mit der DDR-Geschichte der Stadt verbunden ist.
+Ähnlich verhält es sich mit dem heute vorgestellten <a href="https://1.fc-magdeburg.de/news/detail/aus-der-platte" target="_blank" rel="noopener noreferrer">Ausweichtrikot</a>. Es ist schwarz und spielt in seinen Details auf die Platte an – auf eine Wohnform, die Magdeburg bis heute prägt und untrennbar mit der DDR-Geschichte der Stadt verbunden ist.
 
 Als jemand, der elf Jahre in Neu-Olvenstedt aufgewachsen und dort bis zum Abitur zur Schule gegangen ist, fühle ich diese Idee vielleicht sogar noch stärker als die des Handelshafens. Die Platte ist für mich kein abstraktes Gestaltungsmotiv. Sie ist die Kulisse meiner Kindheit, ein Stück Zuhause und etwas, das von außen oft ganz anders betrachtet wird als von denen, die darin und dazwischen aufgewachsen sind.
 
