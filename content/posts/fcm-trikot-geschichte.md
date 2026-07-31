@@ -18,7 +18,7 @@ tags:
 
 Von zwei Dingen habe ich gefährlich wenig Ahnung: Fußball und Fashion. Trotzdem möchte ich über zwei aktuelle Trikots des 1. FC Magdeburg schreiben. Denn sie – und vor allem die Reaktionen auf sie – beschäftigen mich mehr, als ich erwartet hätte. Ich ertappe mich jedenfalls erstaunlich oft dabei, über diese beiden Trikots nachzudenken.
 
-Sondertrikots scheinen im Fußball ein eigenes Feld zu sein. Immer wieder bekomme ich am Rande mit, dass dieser Verein ein neues Trikot herausbringt und jener gleich noch eines. Die Reaktionen darauf sind nicht immer positiv. Ob es diese Entwicklung braucht, ob dahinter vor allem Marketing steckt oder tatsächlich der Wunsch, Geschichten zu erzählen, kann ich nicht einschätzen.
+Sondertrikots scheinen im Fußball ein eigenes Feld zu sein. Immer wieder bekomme ich am Rande mit, dass dieser Verein ein neues Trikot herausbringt und jener gleich noch eines. Die Reaktionen darauf sind nicht immer positiv. Ob es diese Entwicklung braucht, ob dahinter vor allem Marketing steckt oder der Wunsch, Geschichte(n) zu erzählen, kann ich nicht einschätzen.
 
 ## Backstein, Rost und der Handelshafen
 
@@ -27,7 +27,7 @@ Aber zurück nach Magdeburg: Das neue [Auswärtstrikot](https://1.fc-magdeburg.d
 {{< figure
   src="/images/FCM-Auswaertstrikot_26-27.jpg"
   alt="Auswärtstrikot des 1. FC Magdeburg in der Saison 2026/2027"
-  caption="Aus Magdeburg in die Welt: das aktuelle Auswärtstrikot"
+  caption="Aus Magdeburg in die Welt: das aktuelle Auswärtstrikot (© 1. FC Magdeburg Spielbetriebes GmbH)"
   class="post-figure"
 >}}
 
@@ -44,7 +44,7 @@ Als jemand, der elf Jahre in Neu-Olvenstedt aufgewachsen und dort bis zum Abitur
 {{< figure
   src="/images/FCM-Ausweichtrikot_26-27.jpeg"
   alt="Ausweichtrikot des 1. FC Magdeburg in der Saison 2026/2027"
-  caption="Aus der Platte: das aktuelle Ausweichtrikot"
+  caption="Aus der Platte: das aktuelle Ausweichtrikot (© 1. FC Magdeburg Spielbetriebes GmbH)"
   class="post-figure"
 >}}
 
