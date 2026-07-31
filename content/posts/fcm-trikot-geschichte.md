@@ -22,7 +22,7 @@ Sondertrikots scheinen im Fußball ein eigenes Feld zu sein. Immer wieder bekomm
 
 ## Backstein, Rost und der Handelshafen
 
-Aber zurück nach Magdeburg: Das neue<a href="[https://1.fc-magdeburg.de/news/detail/aus-der-platte](https://1.fc-magdeburg.de/news/detail/aus-magdeburg-in-die-welt)" target="_blank" rel="noopener noreferrer">Auswärtstrikot</a> ist in einem eigentümlichen Rotbraun gehalten, das an Backstein und Rost erinnern soll. Es ist dem Magdeburger Handelshafen gewidmet und greift mit seiner Farbgebung und weiteren Details einen der erhaltenen Speicher am Hafenbecken auf.
+Aber zurück nach Magdeburg: Das neue <a href="[https://1.fc-magdeburg.de/news/detail/aus-der-platte](https://1.fc-magdeburg.de/news/detail/aus-magdeburg-in-die-welt)" target="_blank" rel="noopener noreferrer">Auswärtstrikot</a> ist in einem eigentümlichen Rotbraun gehalten, das an Backstein und Rost erinnern soll. Es ist dem Magdeburger Handelshafen gewidmet und greift mit seiner Farbgebung und weiteren Details einen der erhaltenen Speicher am Hafenbecken auf.
 
 {{< figure
   src="/images/FCM-Auswaertstrikot_26-27.jpg"
