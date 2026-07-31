@@ -27,7 +27,7 @@ Aber zurück nach Magdeburg: Das neue [Auswärtstrikot](https://1.fc-magdeburg.d
 {{< figure
   src="/images/FCM-Auswaertstrikot_26-27.jpg"
   alt="Auswärtstrikot des 1. FC Magdeburg in der Saison 2026/2027"
-  caption="Aus Magdeburg in die Welt: das aktuelle Auswärtstrikot (© 1. FC Magdeburg Spielbetriebes GmbH)"
+  caption="Das aktuelle Auswärtstrikot (© 1. FC Magdeburg Spielbetriebes GmbH)"
   class="post-figure"
 >}}
 
@@ -44,7 +44,7 @@ Als jemand, der elf Jahre in Neu-Olvenstedt aufgewachsen und dort bis zum Abitur
 {{< figure
   src="/images/FCM-Ausweichtrikot_26-27.jpeg"
   alt="Ausweichtrikot des 1. FC Magdeburg in der Saison 2026/2027"
-  caption="Aus der Platte: das aktuelle Ausweichtrikot (© 1. FC Magdeburg Spielbetriebes GmbH)"
+  caption="Das aktuelle Ausweichtrikot (© 1. FC Magdeburg Spielbetriebes GmbH)"
   class="post-figure"
 >}}
 
