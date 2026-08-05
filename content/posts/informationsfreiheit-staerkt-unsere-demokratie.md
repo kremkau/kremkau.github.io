@@ -46,7 +46,6 @@ Wie Transparenz das Vertrauen in die öffentliche Verwaltung stärken kann und a
     border: 0;
   }
 </style>
-
 ## Ein aktuelles Beispiel aus Magdeburg
 
 Als ich während der Live-Sendung nach einem konkreten Beispiel gefragt wurde, erinnerte ich an einen aktuellen Vorfall hier in Magdeburg: Die Stadtverwaltung hatte eine Lesung mit dem Autor Arne Semsrott abgesagt. Erst durch eine Anfrage auf Grundlage des Informationsfreiheitsgesetzes wurde die interne Kommunikation der Verwaltung zugänglich. So ließ sich nachvollziehen, wie diese Entscheidung zustande gekommen war.
