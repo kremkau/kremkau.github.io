@@ -156,3 +156,15 @@ h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
 .post-tags a {
   text-decoration: none;
 }
+.media-embed {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  aspect-ratio: 16 / 9;
+  margin: 1.5rem auto 0.5rem;
+  overflow: hidden;
+}
+
+.media-embed + h2 {
+  margin-top: 0.75rem;
+}
