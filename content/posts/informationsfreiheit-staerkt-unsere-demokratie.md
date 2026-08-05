@@ -12,9 +12,6 @@ tags:
   - Bürgerbeteiligung
   - MDR
 ---
-
-# Informationsfreiheit stärkt unsere Demokratie
-
 Ich war heute in der MDR-Fernsehsendung [„Dein Thema, deine Meinung“](https://www.mdr.de/nachrichten/deutschland/politik/informationsfreiheitsgesetz,dein-thema-deine-meinung-100.html) telefonisch als Gast zugeschaltet und durfte meine Position zum Informationsfreiheitsgesetz erläutern.
 
 Meine Haltung ist klar: Ich bin für den Erhalt des Informationsfreiheitsgesetzes – und, wenn möglich, für seine weitere Stärkung.
