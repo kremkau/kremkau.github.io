@@ -20,6 +20,33 @@ Transparenz ist für mich kein bürokratischer Luxus. Sie ist eine wesentliche G
 
 Wie Transparenz das Vertrauen in die öffentliche Verwaltung stärken kann und an welchen Stellen Behörden den Zugang zu Informationen erschweren, zeigt aus meiner Sicht eine Folge des SWR-Podcasts [„Das Wissen“ über Akten unter Verschluss](https://www.swr.de/swrkultur/wissen/akten-unter-verschluss-wie-behoerden-die-informationsfreiheit-untergraben-100.html) sehr anschaulich. Ich hatte sie vor einigen Wochen gehört und kann sie zu diesem Thema sehr empfehlen.
 
+<div class="media-embed">
+  <iframe
+    src="https://www.swr.de/~embed/swrkultur/wissen/akten-unter-verschluss-wie-behoerden-die-informationsfreiheit-untergraben-100.html"
+    title="SWR-Podcast: Akten unter Verschluss – wie Behörden die Informationsfreiheit untergraben"
+    loading="lazy"
+    allow="autoplay; fullscreen"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<style>
+  .media-embed {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    aspect-ratio: 16 / 9;
+    margin: 1.5rem auto;
+    overflow: hidden;
+  }
+
+  .media-embed iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
 ## Ein aktuelles Beispiel aus Magdeburg
 
 Als ich während der Live-Sendung nach einem konkreten Beispiel gefragt wurde, erinnerte ich an einen aktuellen Vorfall hier in Magdeburg: Die Stadtverwaltung hatte eine Lesung mit dem Autor Arne Semsrott abgesagt. Erst durch eine Anfrage auf Grundlage des Informationsfreiheitsgesetzes wurde die interne Kommunikation der Verwaltung zugänglich. So ließ sich nachvollziehen, wie diese Entscheidung zustande gekommen war.
