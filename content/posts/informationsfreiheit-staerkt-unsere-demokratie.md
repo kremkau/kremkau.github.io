@@ -24,7 +24,7 @@ Wie Transparenz das Vertrauen in die öffentliche Verwaltung stärken kann und a
 
 Als ich während der Live-Sendung nach einem konkreten Beispiel gefragt wurde, erinnerte ich an einen aktuellen Vorfall hier in Magdeburg: Die Stadtverwaltung hatte eine Lesung mit dem Autor Arne Semsrott abgesagt. Erst durch eine Anfrage auf Grundlage des Informationsfreiheitsgesetzes wurde die interne Kommunikation der Verwaltung zugänglich. So ließ sich nachvollziehen, wie diese Entscheidung zustande gekommen war.
 
-Die entsprechende Anfrage hatte Arne Semsrott selbst gestellt. Er war ebenfalls Gast der Sendung und saß live im Studio. Zu meiner Schande muss ich gestehen, dass ich in diesem Moment gar nicht auf dem Schirm hatte, dass die Anfrage von ihm stammte. Die Moderatorin griff das glücklicherweise gut auf und gab ihm die Gelegenheit, die Hintergründe ausführlicher zu schildern.
+Die entsprechende Anfrage hatte Arne Semsrott selbst gestellt. Er war ebenfalls Gast der Sendung und saß live im Studio. Zu meiner Schande muss ich gestehen, dass ich in diesem Moment gar nicht auf dem Schirm hatte, dass er als Gast im Studio ist. Die Moderatorin griff das glücklicherweise gut auf und gab ihm die Gelegenheit, die Hintergründe ausführlicher zu schildern.
 
 ## Zugang zu Informationen ermöglicht Beteiligung
 
