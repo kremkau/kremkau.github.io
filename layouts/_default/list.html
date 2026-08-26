@@ -12,7 +12,12 @@
     {{ $pages := where .Pages "Section" "posts" }}
 
     {{ if .IsHome }}
-      {{ $pages = first 10 (where site.RegularPages "Section" "posts") }}
+      {{ $pages = where site.RegularPages "Section" "posts" }}
+      {{ $wassertretstellen := where $pages "Params.rubriken" "intersect" (slice "wassertretstellen") }}
+      {{ $pages = first 10 ($pages | complement $wassertretstellen) }}
+    {{ else if eq .RelPermalink ("/rubriken/land-und-leute/" | relURL) }}
+      {{ $wassertretstellen := where $pages "Params.rubriken" "intersect" (slice "wassertretstellen") }}
+      {{ $pages = $pages | complement $wassertretstellen }}
     {{ end }}
 
     {{ range $pages.ByDate.Reverse }}
