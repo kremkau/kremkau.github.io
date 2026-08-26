@@ -1,6 +1,6 @@
 ---
 title: "Auf der alten Kleinbahntrasse durch die Altmark"
-date: 2026-08-24
+date: 2026-08-26
 description: "Eine Radtour von Hohenwulsch über Bismark (Altmark) nach Kalbe (Milde) – auf einer alten Bahntrasse durch die Weite der Altmark."
 slug: "altmark-radweg-bismark-kalbe"
 location: Bismark (Altmark)
