@@ -9,6 +9,8 @@ description: "Naturbelassene Wassertretstelle in der Milde mit angrenzendem Barf
 type: "wassertretstelle"
 rubriken:
   - "land-und-leute"
+subcategory:
+  - "wassertretstellen"   
 tags:
   - "Wassertreten"
   - "Kneipp"
