@@ -1,6 +1,6 @@
 ---
 title: "Auf der alten Kleinbahntrasse durch die Altmark"
-date: 2026-08-26
+date: 2026-08-24
 description: "Eine Radtour von Hohenwulsch über Bismark (Altmark) nach Kalbe (Milde) – auf einer alten Bahntrasse durch die Weite der Altmark."
 slug: "altmark-radweg-bismark-kalbe"
 location: Bismark (Altmark)
@@ -8,6 +8,7 @@ rubriken:
   - "Land und Leute"
 tags:
   - Radverkehr
+  - Mobilität
   - Altmark
   - Bismark (Altmark)
   - Kalbe (Milde)
@@ -16,7 +17,7 @@ tags:
   - Kleinbahntrasse
 ---
 
-Am Montagnachmittag bin ich mit dem Fahrrad von Hohenwulsch über Bismark (Altmark) nach Kalbe (Milde) gefahren – und am Nachmittag wieder zurück. Insgesamt waren das zwei wunderbare Fahrten auf einem beeindruckenden Radweg, der für mich zeigt, wie gute Infrastruktur und die Schönheit der Altmark zusammenwirken können.
+Heute bin ich mit dem Fahrrad von Hohenwulsch über Bismark (Altmark) nach Kalbe (Milde) gefahren – und am Nachmittag wieder zurück. Insgesamt waren das zwei wunderbare Fahrten auf einem beeindruckenden Radweg, der für mich zeigt, wie gute Infrastruktur und die Schönheit der Altmark zusammenwirken können.
 
 ## Fast zwanzig Kilometer abseits des Autoverkehrs
 
