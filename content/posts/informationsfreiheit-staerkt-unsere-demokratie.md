@@ -5,6 +5,7 @@ author: "Tobias"
 description: "Warum ich mich für den Erhalt und die Stärkung des Informationsfreiheitsgesetzes einsetze – und weshalb Transparenz für unsere Demokratie unverzichtbar ist."
 slug: "informationsfreiheit-staerkt-unsere-demokratie"
 rubriken: "Politik und Demokratie"
+location: Leipzig/Magdeburg
 tags:
   - Informationsfreiheit
   - Transparenz
