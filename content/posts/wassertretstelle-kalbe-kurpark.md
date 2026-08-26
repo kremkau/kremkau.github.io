@@ -100,16 +100,15 @@ sources:
     publisher: "Altmärkischer Regionalmarketing- und Tourismusverband"
     url: "https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/"
     accessed: "2026-08-26"
-image:
+
+featured_image: null
+---
 {{< figure
   src="/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
   alt="Alt-Text: Holzschild mit Pfeil zur Wassertretstelle an einem schattigen Weg im grünen Kurpark. Darunter warnt ein Schild vor fehlenden Brückengeländern und dem Betreten auf eigene Gefahr. Links ist ein Gewässer zu sehen."
   caption="Wegweiser zur Wassertretstelle im Kurpark"
   class="post-figure"
 >}}
-
-featured_image: null
----
 
 Die Wassertretstelle befindet sich im Kurpark von Kalbe (Milde). Sie liegt parallel zum Lauf der Milde und ist von Bäumen und Sträuchern umgeben. Das etwa zehn Meter lange Tretbecken besitzt ein Metallgeländer, das den Ein- und Ausstieg erleichtert.
 
@@ -164,4 +163,3 @@ Die Angaben zum Zustand und zur Nutzung wurden zuletzt bei einem persönlichen B
 - [Einheitsgemeinde Stadt Kalbe (Milde): Wassertretstelle und Barfußparcours im Kurpark](https://www.stadt-kalbe-milde.de/verzeichnis/visitenkarte.php?mandat=239737)
 - [Landesvereinigung für Gesundheit Sachsen-Anhalt: Öffentliche Kneipp-Anlagen – Kalbe (Milde)](https://www.lvg-lsa.de/wp-content/uploads/2021/05/Kalbe.pdf)
 - [Altmärkischer Regionalmarketing- und Tourismusverband: Wassertretstelle im Kurpark Kalbe (Milde)](https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/)
-
