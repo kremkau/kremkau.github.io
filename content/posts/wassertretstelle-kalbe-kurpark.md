@@ -102,7 +102,14 @@ sources:
     url: "https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/"
     accessed: "2026-08-26"
 
-images: []
+images: 
+{{< figure
+  src="/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
+  alt="Alt-Text: Holzschild mit Pfeil zur Wassertretstelle an einem schattigen Weg im grünen Kurpark. Darunter warnt ein Schild vor fehlenden Brückengeländern und dem Betreten auf eigene Gefahr. Links ist ein Gewässer zu sehen."
+  caption="Wegweiser zur Wassertretstelle im Kurpark"
+  class="post-figure"
+>}}
+
 featured_image: null
 ---
 
