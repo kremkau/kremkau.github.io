@@ -3,7 +3,6 @@ title: "Wassertretstelle im Kurpark Kalbe (Milde)"
 slug: "kalbe-milde-kurpark"
 date: 2026-08-26
 lastmod: 2026-08-26
-draft: false
 
 description: "Naturbelassene Wassertretstelle in der Milde mit angrenzendem Barfußparcours im Kurpark von Kalbe (Milde)."
 
