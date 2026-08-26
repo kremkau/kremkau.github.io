@@ -44,7 +44,7 @@ Das Ergebnis ist weit mehr als ein touristischer Ausflugsweg. Der Radweg verbind
 {{< figure
   src="/images/Tobias-Kremkau-Radweg.jpeg"
   alt="Selfie eines bärtigen Radfahrers mit schwarzem Fahrradhelm und weißem T-Shirt. Hinter ihm verläuft ein schmaler, heller Radweg durch eine dicht begrünte Baumallee."
-  caption="Unterwegs auf der der alten Kleinbahntrasse"
+  caption="Unterwegs auf der alten Kleinbahntrasse"
   class="post-figure"
 >}}
 
