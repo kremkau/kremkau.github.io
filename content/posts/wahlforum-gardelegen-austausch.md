@@ -1,6 +1,6 @@
 ---
 title: "Ein Wahlforum, das Austausch möglich machte"
-date: 18.08.2026
+date: 2026-08-18
 description: "Über echten politischen Austausch in der Gardelegener Bürgerkirche, klare Unterschiede und notwendigen Widerspruch gegen die AfD-Faschos."
 slug: "wahlforum-gardelegen-austausch"
 location: Hansestadt Gardelegen
