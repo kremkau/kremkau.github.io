@@ -17,15 +17,7 @@ tags:
   - "Kurpark"
   - "Milde-Biese-Aland-Tour"
 
-location:
-  name: "Wassertretstelle im Kurpark Kalbe (Milde)"
-  locality: "Kalbe (Milde)"
-  municipality: "Einheitsgemeinde Stadt Kalbe (Milde)"
-  district: "Altmarkkreis Salzwedel"
-  state: "Sachsen-Anhalt"
-  country: "Deutschland"
-  latitude: 52.656782
-  longitude: 11.395944
+location: "Kalbe (Milde)"
 
 status: "geöffnet"
 verification:
