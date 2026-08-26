@@ -18,65 +18,64 @@
   {{ partial "opengraph.html" . }}
   {{ partial "twitter_cards.html" . }}
 
-  <link rel="stylesheet" href="/css/style.css?v=2">
+  <link rel="stylesheet" href="/css/style.css?v=3">
+  <link rel="stylesheet" href="/css/wassertretstellen-menu.css?v=1">
 </head>
-  <body>
+<body>
   <header class="site-header">
-  <div class="wrap">
-    <div class="blog-header-image">
-      <img
-        src="{{ "images/kremkaus-blog-header-altmark-v3.png" | relURL }}"
-        alt="Altmarklandschaft mit Getreidefeld, Bushaltestelle, Schachtisch, Bouleplatz, Feldsteinkirche und Windrädern"
-        width="1942"
-        height="809"
-        fetchpriority="high"
-      >
-    </div>
+    <div class="wrap">
+      <div class="blog-header-image">
+        <img
+          src="{{ "images/kremkaus-blog-header-altmark-v3.png" | relURL }}"
+          alt="Altmarklandschaft mit Getreidefeld, Bushaltestelle, Schachtisch, Bouleplatz, Feldsteinkirche und Windrädern"
+          width="1942"
+          height="809"
+          fetchpriority="high"
+        >
+      </div>
 
-    <a class="site-title" href="{{ site.Home.RelPermalink }}">
-      Kremkaus Blog <span aria-hidden="true">🌻</span>
-    </a>
-
-    <p class="site-description">{{ site.Params.description }}</p>
-
-    <nav aria-label="Hauptnavigation">
-      <a href="{{ site.Home.RelPermalink }}">Start</a>
-      <a href="{{ "/rubriken/politik-und-demokratie/" | relURL }}">Politik</a>
-      <a href="{{ "/rubriken/land-und-leute/" | relURL }}">Land &amp; Leute</a>
-      <a href="{{ "/rubriken/persoenliche-notizen/" | relURL }}">Persönliches</a>
-      <a href="{{ "/tags/" | relURL }}">Schlagworte</a>
-      <a href="{{ "/ueber-mich/" | relURL }}">Über mich</a>
-    </nav>
-  </div>
-</header>
-     <main class="wrap">
-  {{ block "main" . }}{{ end }}
-</main>
-   <footer class="site-footer">
-  <div class="wrap">
-    <p>
-      Dieser Blog verwendet weder Tracking noch Cookies. Gern geschehen.
-    </p>
-    <p>
-      <span>© {{ now.Year }} Tobias Kremkau</span>
-      <span aria-hidden="true"> · </span>
-        <a
-  href="https://machteburch.social/@kremkau"
-  rel="me"
-  target="_blank"
->
-  Mastodon
-</a>
-      <span aria-hidden="true"> · </span>
-      <a href="{{ site.Home.RelPermalink }}index.xml">
-        RSS abonnieren
+      <a class="site-title" href="{{ site.Home.RelPermalink }}">
+        Kremkaus Blog <span aria-hidden="true">🌻</span>
       </a>
-      <span aria-hidden="true"> · </span>
-      <a href="{{ "/impressum/" | relURL }}">Impressum</a>
-    
-    </p>
-  </div>
-</footer>
-  </body>
-</html>
 
+      <p class="site-description">{{ site.Params.description }}</p>
+
+      <nav class="main-nav" aria-label="Hauptnavigation">
+        <a href="{{ site.Home.RelPermalink }}">Start</a>
+        <a href="{{ "/rubriken/politik-und-demokratie/" | relURL }}">Politik</a>
+
+        <details class="nav-dropdown">
+          <summary>Land &amp; Leute</summary>
+          <div class="nav-submenu">
+            <a href="{{ "/rubriken/land-und-leute/" | relURL }}">Alle Beiträge</a>
+            <a href="{{ "/rubriken/wassertretstellen/" | relURL }}">Wassertretstellen</a>
+          </div>
+        </details>
+
+        <a href="{{ "/rubriken/persoenliche-notizen/" | relURL }}">Persönliches</a>
+        <a href="{{ "/tags/" | relURL }}">Schlagworte</a>
+        <a href="{{ "/ueber-mich/" | relURL }}">Über mich</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Dieser Blog verwendet weder Tracking noch Cookies. Gern geschehen.</p>
+      <p>
+        <span>© {{ now.Year }} Tobias Kremkau</span>
+        <span aria-hidden="true"> · </span>
+        <a href="https://machteburch.social/@kremkau" rel="me" target="_blank">Mastodon</a>
+        <span aria-hidden="true"> · </span>
+        <a href="{{ site.Home.RelPermalink }}index.xml">RSS abonnieren</a>
+        <span aria-hidden="true"> · </span>
+        <a href="{{ "/impressum/" | relURL }}">Impressum</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
