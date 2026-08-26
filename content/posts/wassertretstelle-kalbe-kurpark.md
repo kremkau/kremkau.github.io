@@ -1,5 +1,5 @@
 ---
-title: "Wassertretstelle im Kurpark Kalbe (Milde)"
+title: "Kurpark Kalbe (Milde)"
 slug: "kalbe-milde-kurpark"
 date: 2026-08-26
 lastmod: 2026-08-26
