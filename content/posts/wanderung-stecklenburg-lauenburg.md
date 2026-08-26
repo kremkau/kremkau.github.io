@@ -4,7 +4,7 @@ date: 2026-07-27
 location: "Magdeburg"
 slug: "wanderung-stecklenburg-lauenburg"
 rubriken:
-  - "persoenliche-notizen"
+  - "Land und Leute"
 description: "Eine familienfreundliche Wanderung von Neinstedt über Stecklenberg zu den Ruinen der Stecklenburg und Lauenburg – mit Brombeeren am Wegesrand, einigen Höhenmetern und einem Eis zum Abschluss."
 tags:
   - Harz
