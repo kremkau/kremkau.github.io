@@ -40,6 +40,13 @@ Rund 6,5 Millionen Euro wurden in das Gemeinschaftsprojekt der Städte Bismark u
 
 Das Ergebnis ist weit mehr als ein touristischer Ausflugsweg. Der Radweg verbindet zwei Städte, zwei Landkreise und über Hohenwulsch auch Kalbe mit dem Bahnverkehr. Von hier sind es 22 Bahnminuten nach Salzwedel, 12 Bahnminuten nach Stendal und insgesamt 60 Bahnminuten weiter bis nach Magdeburg. Damit kann der Radweg ebenso für alltägliche Wege, für Pendler*innen und für die Kombination aus Fahrrad und Bahn genutzt werden.
 
+{{< figure
+  src="/images/Tobias-Kremkau-Radweg.jpeg"
+  alt="Selfie eines bärtigen Radfahrers mit schwarzem Fahrradhelm und weißem T-Shirt. Hinter ihm verläuft ein schmaler, heller Radweg durch eine dicht begrünte Baumallee."
+  caption="Unterwegs auf der der alten Kleinbahntrasse"
+  class="post-figure"
+>}}
+
 ## Ein Radweg, der die Region zusammenbringt
 
 Meine Fahrt nach Kalbe (Milde) und zurück hat mir große Freude gemacht. Der Weg lässt sich wunderbar fahren, führt durch eine typisch schöne altmärkische Landschaft und hält mit den Relikten der Kleinbahn immer wieder kleine historische Entdeckungen bereit.
