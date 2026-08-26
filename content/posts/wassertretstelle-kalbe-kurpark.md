@@ -65,8 +65,10 @@ visit:
   status_observed: "in Betrieb und genutzt"
   visitors_observed:
     - "zwei Familien mit Kindern"
-  photos_taken: false
-  photo_note: "Aus Rücksicht auf die anwesenden Familien und Kinder wurden keine Fotos aufgenommen."
+  photos_taken: true
+  installation_photos_taken: false
+  photo_shows: "Wegweiser zur Wassertretstelle"
+  photo_note: "Aus Rücksicht auf die anwesenden Familien und Kinder wurde die Anlage selbst nicht fotografiert."
 
 operator:
   name: "Einheitsgemeinde Stadt Kalbe (Milde)"
@@ -93,11 +95,13 @@ sources:
     url: "https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/"
     accessed: "2026-08-26"
 
-featured_image: null
+images:
+  - "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
+featured_image: "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
 ---
 {{< figure
   src="/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
-  alt="Alt-Text: Holzschild mit Pfeil zur Wassertretstelle an einem schattigen Weg im grünen Kurpark. Darunter warnt ein Schild vor fehlenden Brückengeländern und dem Betreten auf eigene Gefahr. Links ist ein Gewässer zu sehen."
+  alt="Holzschild mit Pfeil zur Wassertretstelle an einem schattigen Weg im grünen Kurpark. Darunter warnt ein Schild vor fehlenden Brückengeländern und dem Betreten auf eigene Gefahr. Links ist ein Gewässer zu sehen."
   caption="Wegweiser zur Wassertretstelle im Kurpark"
   class="post-figure"
 >}}
@@ -132,7 +136,7 @@ Die Anlage liegt außerdem an der Milde-Biese-Aland-Tour und bietet sich deshalb
 
 Ich habe die Wassertretstelle am 24. August 2026 gegen 16 Uhr besucht. Zu diesem Zeitpunkt war die Anlage zugänglich und wurde von zwei Familien mit Kindern genutzt.
 
-Auf eigene Fotos habe ich bei diesem Besuch bewusst verzichtet, weil sich mehrere Kinder an der Wassertretstelle aufhielten. Die hier gemachten Angaben zum Zustand und zur Nutzung beziehen sich daher auf meine Beobachtungen vor Ort, sind aber nicht fotografisch dokumentiert.
+Auf Fotos der Anlage selbst habe ich bei diesem Besuch bewusst verzichtet, weil sich mehrere Kinder an der Wassertretstelle aufhielten. Fotografiert habe ich lediglich den Wegweiser am Zugang. Die Angaben zum Zustand und zur Nutzung beziehen sich daher auf meine Beobachtungen vor Ort, sind aber nicht durch Fotos der Anlage dokumentiert.
 
 ## Noch zu prüfen
 
