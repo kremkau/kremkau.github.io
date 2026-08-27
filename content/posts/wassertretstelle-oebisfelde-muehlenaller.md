@@ -70,7 +70,7 @@ operator:
   website: null
 
 map:
-  openstreetmap: "[Standort bei OpenStreetMap]([Standort bei OpenStreetMap](https://osm.org/go/0G7hq~WCu?layers=N&m=))" 
+  openstreetmap: "[Standort bei OpenStreetMap](https://www.openstreetmap.org/?mlat=52.432083&mlon=10.985167#map=19/52.432083/10.985167&layers=N)" 
 
 images:
   - "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
