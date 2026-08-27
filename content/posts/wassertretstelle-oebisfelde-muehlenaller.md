@@ -70,7 +70,7 @@ operator:
   website: null
 
 map:
-  openstreetmap: "[[https://osm.org/go/0MRWjZvX-?m](https://osm.org/go/0G7hq~WCu?layers=N&m=)]
+  openstreetmap: "[Standort bei OpenStreetMap]([Standort bei OpenStreetMap](https://osm.org/go/0G7hq~WCu?layers=N&m=))" 
 
 images:
   - "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
@@ -97,11 +97,11 @@ Die Idee für die Anlage entstand 2009 in der Arbeitsgruppe Altstadt. Umgesetzt 
 
 ## Anreise
 
-Die Wassertretstelle befindet sich im Oebisfelder Dämmchen, einer langgestreckten Grünanlage an der Altstadt. Der Zugang erfolgt über den Verbindungsweg zwischen Theodor-Müller-Straße und Lessingstraße.
+Die Wassertretstelle befindet sich ineiner langgestreckten Grünanlage an der Altstadt parallel zum Verlauf der Mühlenaller. Der Zugang erfolgt über den Verbindungsweg zwischen Theodor-Müller-Straße und Lessingstraße.
 
 In der Nähe treffen mit dem Aller-Radweg, dem EuroVelo 13 und dem Rundweg „Velpker Schweiz“ mehrere Radrouten zusammen. Die Radweg-Infostelle auf dem Dämmchen liegt ebenfalls direkt an der Mühlenaller. Dadurch eignet sich die Wassertretstelle gut für eine Pause während einer Wanderung oder Fahrradtour.
 
-→ [Dämmchen bei OpenStreetMap](https://www.openstreetmap.org/way/281488867)
+→ [Standort bei OpenStreetMap](https://www.openstreetmap.org/way/281488867)
 
 ## Mein Besuch
 
