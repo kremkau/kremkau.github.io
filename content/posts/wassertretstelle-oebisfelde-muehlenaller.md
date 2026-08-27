@@ -70,7 +70,7 @@ operator:
   website: null
 
 map:
-  openstreetmap: "[https://osm.org/go/0MRWjZvX-?m](https://www.openstreetmap.org/way/281488867)"
+  openstreetmap: "[[https://osm.org/go/0MRWjZvX-?m](https://osm.org/go/0G7hq~WCu?layers=N&m=)]
 
 images:
   - "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
