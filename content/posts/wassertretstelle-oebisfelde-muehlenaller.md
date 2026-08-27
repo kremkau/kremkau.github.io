@@ -1,8 +1,8 @@
 ---
-title: "Mühlenaller im Oebisfelder Dämmchen"
+title: "Mühlenaller in Oebisfelde"
 date: 2026-08-16
 slug: "wassertretstelle-oebisfelde-muehlenaller"
-description: "Naturnahe Wassertret- und Spielstelle für Kinder an der Mühlenaller im Oebisfelder Dämmchen."
+description: "Naturnahe Wassertret- und Spielstelle für Kinder an der Mühlenaller in Oebisfelde."
 type: "wassertretstelle"
 rubriken:
   - "wassertretstellen"  
@@ -78,7 +78,7 @@ featured_image: "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
 
 ---
 
-Die [Wassertretstelle liegt an der Mühlenaller in Oebisfelde](https://www.stadt-oebisfelde-weferlingen.de/de/ortschaften/oebisfelde.html), im Bereich des Dämmchens zwischen Theodor-Müller-Straße und Lessingstraße. Sie ist unmittelbar in den Lauf des Gewässers eingebunden und wird von dessen Wasser durchströmt. Die Mühlenaller selbst wird über den Landgraben mit Wasser aus der Aller gespeist.
+Die [Wassertretstelle liegt an der Mühlenaller in Oebisfelde](https://www.stadt-oebisfelde-weferlingen.de/de/ortschaften/oebisfelde.html), im parkähnlichen Bereich zwischen Theodor-Müller-Straße und Lessingstraße. Sie ist unmittelbar in den Lauf des Gewässers eingebunden und wird von dessen Wasser durchströmt. Die Mühlenaller selbst wird über den Landgraben mit Wasser aus der Aller gespeist.
 
 Die Anlage wurde als Wassertret- und Spielstelle gestaltet. Großformatige Steinplatten bilden den befestigten Bereich im Wasser. Stufen und Rampen ermöglichen die Nutzung bei unterschiedlichen Wasserständen; ein umlaufendes Edelstahlgeländer bietet Halt. Ein angrenzender, ebenfalls mit Flusswasser versorgter Bereich lädt Kinder zum Spielen ein.
 
