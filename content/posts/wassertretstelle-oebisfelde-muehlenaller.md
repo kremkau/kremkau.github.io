@@ -101,7 +101,7 @@ Die Wassertretstelle befindet sich ineiner langgestreckten Grünanlage an der Al
 
 In der Nähe treffen mit dem Aller-Radweg, dem EuroVelo 13 und dem Rundweg „Velpker Schweiz“ mehrere Radrouten zusammen. Die Radweg-Infostelle auf dem Dämmchen liegt ebenfalls direkt an der Mühlenaller. Dadurch eignet sich die Wassertretstelle gut für eine Pause während einer Wanderung oder Fahrradtour.
 
-→ [Standort bei OpenStreetMap](https://www.openstreetmap.org/way/281488867)
+→ [Standort bei OpenStreetMap]([https://www.openstreetmap.org/way/281488867](https://www.openstreetmap.org/?mlat=52.432083&mlon=10.985167#map=19/52.432083/10.985167&layers=N))
 
 ## Mein Besuch
 
