@@ -61,7 +61,7 @@ arrival:
 
 visit:
   date: "2026-08-24"
-  time: "gegen 16:00 Uhr"
+  time: "16:00 Uhr"
   status_observed: "in Betrieb und genutzt"
   visitors_observed:
     - "zwei Familien mit Kindern"
@@ -106,7 +106,7 @@ featured_image: "/images/20260824_Wassertretstelle-Kalbe-Kurpark.jpeg"
   class="post-figure"
 >}}
 
-Die Wassertretstelle befindet sich im Kurpark von Kalbe (Milde). Sie liegt parallel zum Lauf der Milde und ist von Bäumen und Sträuchern umgeben. Das etwa zehn Meter lange Tretbecken besitzt ein Metallgeländer, das den Ein- und Ausstieg erleichtert.
+Die [Wassertretstelle befindet sich im Kurpark von Kalbe (Milde)](https://www.stadt-kalbe-milde.de/verzeichnis/visitenkarte.php?mandat=239737). Sie verläuft parallel zur Milde und wird von deren Wasser gespeist. Um die Anlage sind Bäume und Sträucher. Das etwa zehn Meter lange Tretbecken besitzt ein Metallgeländer, das den Ein- und Ausstieg erleichtert.
 
 Direkt neben der Wassertretstelle liegt ein Barfußparcours. Dadurch eignet sich die Anlage sowohl als eigenständiges Ausflugsziel als auch für eine kurze Pause bei einer Wanderung oder Fahrradtour.
 
@@ -115,11 +115,12 @@ Direkt neben der Wassertretstelle liegt ein Barfußparcours. Dadurch eignet sich
 - etwa zehn Meter lange Wassertretstrecke
 - natürliches, fließendes Wasser der Milde
 - Metallgeländer
+- zwei Sitzbänke am Kopf der Anlage
 - angrenzender Barfußparcours
 - kostenlose Nutzung
 - jederzeit öffentlich zugänglich
 
-Die Anlage wurde 2021 renoviert. Dabei erhielt sie einen neuen Boden und ein neues Metallgeländer.
+[Die Anlage wurde 2021 renoviert.](https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/) Dabei erhielt sie einen neuen Boden und ein neues Metallgeländer.
 
 ## Anreise
 
@@ -134,28 +135,18 @@ Die Anlage liegt außerdem an der Milde-Biese-Aland-Tour und bietet sich deshalb
 
 ## Mein Besuch
 
-Ich habe die Wassertretstelle am 24. August 2026 gegen 16 Uhr besucht. Zu diesem Zeitpunkt war die Anlage zugänglich und wurde von zwei Familien mit Kindern genutzt.
+Ich habe die Wassertretstelle am 24. August 2026 gegen 16 Uhr besucht. Zu diesem Zeitpunkt war die Anlage zugänglich und wurde von zwei Familien genutzt. Auf Fotos der Anlage selbst habe ich bei diesem Besuch bewusst verzichtet, weil sich mehrere Kinder an der Wassertretstelle aufhielten. 
 
-Auf Fotos der Anlage selbst habe ich bei diesem Besuch bewusst verzichtet, weil sich mehrere Kinder an der Wassertretstelle aufhielten. Fotografiert habe ich lediglich den Wegweiser am Zugang. Die Angaben zum Zustand und zur Nutzung beziehen sich daher auf meine Beobachtungen vor Ort, sind aber nicht durch Fotos der Anlage dokumentiert.
+Die Angaben zum Zustand und zur Nutzung beziehen sich daher auf meine Beobachtungen vor Ort, sind aber nicht durch Fotos der Anlage dokumentiert.
 
 ## Noch zu prüfen
 
 Folgende Angaben sollen bei einem späteren Besuch kontrolliert und ergänzt werden:
 
 - genaue Wassertiefe
-- Sitzmöglichkeiten
 - Zugänglichkeit für Menschen mit Mobilitätseinschränkungen
 - Toiletten in der näheren Umgebung
 - ausdrückliche Eignung für Kinder
 - saisonale Einschränkungen
-- Beschilderung vor Ort
 
-## Stand der Angaben
-
-Die Angaben zum Zustand und zur Nutzung wurden zuletzt bei einem persönlichen Besuch am 24. August 2026 gegen 16 Uhr überprüft. Ergänzende Informationen zu Ausstattung und Anreise wurden am 26. August 2026 anhand der unten genannten öffentlich verfügbaren Quellen geprüft.
-
-## Quellen
-
-- [Einheitsgemeinde Stadt Kalbe (Milde): Wassertretstelle und Barfußparcours im Kurpark](https://www.stadt-kalbe-milde.de/verzeichnis/visitenkarte.php?mandat=239737)
-- [Landesvereinigung für Gesundheit Sachsen-Anhalt: Öffentliche Kneipp-Anlagen – Kalbe (Milde)](https://www.lvg-lsa.de/wp-content/uploads/2021/05/Kalbe.pdf)
-- [Altmärkischer Regionalmarketing- und Tourismusverband: Wassertretstelle im Kurpark Kalbe (Milde)](https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/)
+_Die Angaben zum Zustand und zur Nutzung wurden zuletzt bei einem persönlichen Besuch am 24. August 2026 überprüft._
