@@ -120,7 +120,7 @@ Direkt neben der Wassertretstelle liegt ein Barfußparcours. Dadurch eignet sich
 - kostenlose Nutzung
 - jederzeit öffentlich zugänglich
 
-[Die Anlage wurde 2021 renoviert.](https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/) Dabei erhielt sie einen neuen Boden und ein neues Metallgeländer.
+[Die Anlage wurde 2021 renoviert.](https://www.outdooractive.com/de/poi/altmark/wassertretstelle-im-kurpark-kalbe-milde-/59579484/)
 
 ## Anreise
 
@@ -130,7 +130,7 @@ Mit öffentlichen Verkehrsmitteln kann man die Haltestellen „Kalbe, Bahnhofstr
 
 Die Anlage liegt außerdem an der Milde-Biese-Aland-Tour und bietet sich deshalb als Raststelle für Radfahrende an.
 
-[Standort bei OpenStreetMap](https://osm.org/go/0MRWjZvX-?m)
+→ [Standort bei OpenStreetMap](https://osm.org/go/0MRWjZvX-?m)
 
 
 ## Mein Besuch
