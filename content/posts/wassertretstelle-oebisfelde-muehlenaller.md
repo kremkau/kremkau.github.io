@@ -1,5 +1,5 @@
 ---
-title: "Wassertretstelle an der Mühlenaller"
+title: "Mühlenaller im Oebisfelder Dämmchen"
 date: 2026-08-16
 slug: "wassertretstelle-oebisfelde-muehlenaller"
 description: "Naturnahe Wassertret- und Spielstelle für Kinder an der Mühlenaller im Oebisfelder Dämmchen."
