@@ -90,6 +90,6 @@ Ich denke dabei wieder an die Lastenräder in Frankfurt (Oder). Sie standen nich
 
 Ein Coworking-Space vermietet Arbeitsplätze. Ein MehrWertOrt schafft Möglichkeiten. Ob daraus ein lebendiger Ort wird, entscheidet sich nicht an der Zahl seiner Schreibtische, sondern daran, welchen Ideen und welchen Menschen er ein Zuhause gibt.
 <hr>
-*Hinweis: Eine ausführlichere Fassung dieses Beitrags ist als Essay im monatlichen <a href="[https://example.com](https://coworkland-newsletter.getresponsewebsite.com/)" target="_blank" rel="noopener noreferrer">Newsletter „Bigger Picture“ der CoWorkLand eG</a> erschienen, den ich verfasse. Sämtliche redaktionellen Grafiken und Illustrationen wurden mithilfe generativer KI erstellt. Auswahl, Bearbeitung und redaktionelle Verantwortung lagen bei mir.*
+<p style="font-size: 0.5rem; font-style: italic;">Hinweis: Eine ausführlichere Fassung dieses Beitrags ist als Essay im monatlichen <a href="[https://example.com](https://coworkland-newsletter.getresponsewebsite.com/)" target="_blank" rel="noopener noreferrer">Newsletter „Bigger Picture“ der CoWorkLand eG</a> erschienen, den ich verfasse. Sämtliche redaktionellen Grafiken und Illustrationen wurden mithilfe generativer KI erstellt. Auswahl, Bearbeitung und redaktionelle Verantwortung lagen bei mir.</p>
 
 
