@@ -3,6 +3,7 @@ title: "Warum Engagement ohne Parteien nicht reicht"
 date: 2026-04-13
 description: "Warum Parteien trotz aller Schwächen unverzichtbar bleiben und demokratische Veränderung auch dort erkämpft werden muss, wo Entscheidungen fallen."
 location: "Magdeburg"
+author: "Tobias Kremkau"
 rubriken:
   - "Politik und Demokratie"
 url: "/engagement-partei/"
