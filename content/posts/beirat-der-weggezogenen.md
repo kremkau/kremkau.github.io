@@ -3,6 +3,7 @@ title: "Beirat der Weggezogenen"
 date: 2025-04-02
 description: "Wie Menschen mit biografischen Wurzeln in einer Region auch aus der Ferne zu deren Entwicklung beitragen können."
 location: "Magdeburg"
+author: "Tobias Kremkau"
 rubriken:
   - "Land und Leute"
 url: "/beirat-der-weggezogenen/"
