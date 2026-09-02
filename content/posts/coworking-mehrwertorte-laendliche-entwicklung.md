@@ -3,7 +3,6 @@ title: "Coworking war erst der Anfang: Warum wir MehrWertOrte brauchen"
 slug: "coworking-mehrwertorte-laendliche-entwicklung"
 date: 2026-09-02
 author: "Tobias Kremkau"
-draft: true
 description: "Ländliche Coworking-Spaces werden nicht allein durch vermietete Schreibtische tragfähig. Ihre Zukunft liegt in Orten, die Arbeit, Beratung, Kultur und Gemeinschaft verbinden."
 location: Magdeburg
 rubriken:
