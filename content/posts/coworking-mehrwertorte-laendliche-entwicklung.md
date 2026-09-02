@@ -1,5 +1,5 @@
 ---
-title: "Coworking war erst der Anfang: Warum wir MehrWertOrte brauchen"
+title: "Warum wir MehrWertOrte brauchen"
 slug: "coworking-mehrwertorte-laendliche-entwicklung"
 date: 2026-09-02
 author: "Tobias Kremkau"
@@ -31,13 +31,18 @@ Die größte Hürde ist dabei selten die Technik. Es fehlt nicht an Laptops, Vid
 
 Auf dem Land kommt ein strukturelles Problem hinzu: Die potenziellen Nutzer*innen verteilen sich über eine große Fläche. Was in der Stadt mit einem kleinen Einzugsradius funktioniert, lässt sich nicht einfach verkleinern und aufs Land übertragen. Aus dem wohnortnahen Arbeitsplatz wird sonst schnell ein zusätzlicher Arbeitsweg. Außerdem verteilt sich die Nachfrage ungleich über die Woche.
 
-Deshalb ist ländliches Coworking kein klassisches Immobiliengeschäft. **Quadratmeter sind seine Voraussetzung, aber nicht sein Produkt.**
+Deshalb ist ländliches Coworking kein klassisches Immobiliengeschäft. Quadratmeter sind seine Voraussetzung, aber nicht sein Produkt.
 
 ## Vom Coworking-Space zum MehrWertOrt
 
 Ein MehrWertOrt entsteht dort, wo ein Ort auf mehrere konkrete Bedürfnisse seiner Umgebung antwortet und diese sinnvoll miteinander verbindet. In einem Dorf kann das Coworking mit einem Café, einer Poststation, einem Laden und einem Kulturprogramm sein. In einer Kleinstadt vielleicht mit Gründungsberatung, Werkstatt, Veranstaltungsraum und Bildungsangeboten. Anderswo sind Kinderbetreuung, Pflegeberatung, kommunale Sprechstunden oder Mobilitätsangebote entscheidend.
 
-![Ein MehrWertOrt ist mehr als die Summe seiner Angebote.](images/mehrwertort-vernetzte-angebote-weiss.png)
+{{< figure
+  src="/images/mehrwertort-vernetzte-angebote-weiss.png"
+  alt="Redaktionelle Papiercollage eines offenen MehrWertOrts, in dem Menschen arbeiten, beraten, einkaufen, Schach spielen und gemeinsam Café, Werkstatt, Bibliothek und Mobilitätsangebote nutzen."
+  caption="Ein MehrWertOrt ist mehr als die Summe seiner Angebote."
+  class="post-figure"
+>}}
 
 Nicht die größtmögliche Vielfalt macht einen solchen Ort erfolgreich. Entscheidend ist der Zusammenhang zwischen den Angeboten. Sie sollten Infrastruktur teilen, sich zeitlich ergänzen und unterschiedliche Menschen miteinander in Kontakt bringen. Ein Ort, der alles sein will, läuft Gefahr, für niemanden wirklich wichtig zu werden.
 
@@ -45,7 +50,7 @@ Der Erfolg eines MehrWertOrts bemisst sich deshalb nicht nur an Buchungen und Au
 
 ## Menschen beleben Orte
 
-Die wichtigste Arbeit leisten die Menschen, die einen solchen Ort im Alltag tragen. Ihre Aufgabe geht weit über Empfang, Buchungssystem und Kaffeemaschine hinaus. Gute Gastgeber*innen wissen, wer Mitstreiter*innen sucht, wer einen Raum braucht und wer eine Idee hat, aus der ein Projekt werden könnte. Sie schaffen Verbindungen, Vertrauen und Zugehörigkeit.
+Die wichtigste Arbeit leisten die Menschen, die einen solchen Ort im Alltag tragen. Ihre Aufgabe geht weit über Empfang, Buchungssystem und Kaffeemaschine hinaus. Gute Gastgeber* innen wissen, wer Mitstreiter* innen sucht, wer einen Raum braucht und wer eine Idee hat, aus der ein Projekt werden könnte. Sie schaffen Verbindungen, Vertrauen und Zugehörigkeit.
 
 Eine Software kann freie Räume anzeigen und Rechnungen verschicken. Sie kann aber nicht erkennen, welche zwei Menschen sich kennenlernen sollten. Sie merkt auch nicht, wenn sich jemand zurückzieht oder eine vage Idee im richtigen Moment Zuspruch braucht.
 
@@ -73,7 +78,13 @@ Das verändert auch den Blick auf ländliche Entwicklung. Zu lange wurde sie vor
 
 Der erste Schritt zu einem MehrWertOrt ist deshalb nicht die Suche nach einer Immobilie. Er beginnt mit zwei Fragen: **Was fehlt den Menschen hier – und wer will dauerhaft Verantwortung dafür übernehmen?**
 
-![Offenheit entsteht durch Mitbestimmung und geteilte Verantwortung.](images/mehrwertort-teilhabe-verantwortung-weiss.png)
+{{< figure
+  src="/images/mehrwertort-teilhabe-verantwortung-weiss.png"
+  alt="Papiercollage eines MehrWertOrts: Eine vielfältige Gruppe entscheidet gemeinsam an einem runden Tisch, während offene Wege Menschen aus Dorf, Schule, Verein und Betrieb mit dem barrierefreien Gebäude verbinden."
+  caption="Offenheit entsteht durch Mitbestimmung und geteilte Verantwortung."
+  class="post-figure"
+>}}
+
 
 Ich denke dabei wieder an die Lastenräder in Frankfurt (Oder). Sie standen nicht im Coworking-Space, weil sie zu seinem ursprünglichen Geschäftsmodell gehörten. Sie standen dort, weil Menschen dem Ort zutrauten, eine Idee aufzunehmen und ihr Sichtbarkeit zu geben.
 
