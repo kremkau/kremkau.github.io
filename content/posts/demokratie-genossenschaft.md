@@ -3,6 +3,7 @@ title: "Demokratie in der Praxis"
 date: 2026-03-13
 description: "Wie demokratische Mitbestimmung in Genossenschaften funktioniert und zur regionalen Entwicklung beitragen kann."
 location: "Magdeburg"
+author: "Tobias Kremkau"
 rubriken:
   - "Politik und Demokratie"
 url: "/demokratie-genossenschaft/"
