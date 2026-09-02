@@ -3,6 +3,7 @@ title: "Ende als Kreisvorstand"
 date: 2026-04-24
 description: "Warum meine Arbeit als Vorstand des Kreisverbands Altmark nach fast drei Jahren vorerst endete."
 location: "Berlin"
+author: "Tobias Kremkau"
 rubriken:
   - "Politik und Demokratie"
 url: "/ende-kreisvorstand/"
