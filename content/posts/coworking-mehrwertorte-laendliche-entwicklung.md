@@ -38,6 +38,8 @@ Deshalb ist ländliches Coworking kein klassisches Immobiliengeschäft. **Quadra
 
 Ein MehrWertOrt entsteht dort, wo ein Ort auf mehrere konkrete Bedürfnisse seiner Umgebung antwortet und diese sinnvoll miteinander verbindet. In einem Dorf kann das Coworking mit einem Café, einer Poststation, einem Laden und einem Kulturprogramm sein. In einer Kleinstadt vielleicht mit Gründungsberatung, Werkstatt, Veranstaltungsraum und Bildungsangeboten. Anderswo sind Kinderbetreuung, Pflegeberatung, kommunale Sprechstunden oder Mobilitätsangebote entscheidend.
 
+![Ein MehrWertOrt ist mehr als die Summe seiner Angebote.](images/mehrwertort-vernetzte-angebote-weiss.png)
+
 Nicht die größtmögliche Vielfalt macht einen solchen Ort erfolgreich. Entscheidend ist der Zusammenhang zwischen den Angeboten. Sie sollten Infrastruktur teilen, sich zeitlich ergänzen und unterschiedliche Menschen miteinander in Kontakt bringen. Ein Ort, der alles sein will, läuft Gefahr, für niemanden wirklich wichtig zu werden.
 
 Der Erfolg eines MehrWertOrts bemisst sich deshalb nicht nur an Buchungen und Auslastung. Die wichtigere Frage lautet: **Was wird in der Umgebung möglich, weil es diesen Ort gibt?** Werden lokale Initiativen sichtbarer? Entstehen Kooperationen? Finden Zugezogene schneller Anschluss? Bleiben Beratung, Kultur oder wirtschaftliche Aktivitäten in der Region?
@@ -71,6 +73,8 @@ Der Unterschied liegt weniger in der Liste der Angebote als in der Art, wie ein 
 Das verändert auch den Blick auf ländliche Entwicklung. Zu lange wurde sie vor allem als Bauaufgabe verstanden: ein Gebäude sanieren, Breitband verlegen, einen Platz gestalten. All das bleibt wichtig. Aber Infrastruktur besteht nicht nur aus Beton, Glasfaser und Möbeln. Sie besteht auch aus Beziehungen, Zugängen und Menschen, die Verantwortung übernehmen.
 
 Der erste Schritt zu einem MehrWertOrt ist deshalb nicht die Suche nach einer Immobilie. Er beginnt mit zwei Fragen: **Was fehlt den Menschen hier – und wer will dauerhaft Verantwortung dafür übernehmen?**
+
+![Offenheit entsteht durch Mitbestimmung und geteilte Verantwortung.](images/mehrwertort-teilhabe-verantwortung-weiss.png)
 
 Ich denke dabei wieder an die Lastenräder in Frankfurt (Oder). Sie standen nicht im Coworking-Space, weil sie zu seinem ursprünglichen Geschäftsmodell gehörten. Sie standen dort, weil Menschen dem Ort zutrauten, eine Idee aufzunehmen und ihr Sichtbarkeit zu geben.
 
