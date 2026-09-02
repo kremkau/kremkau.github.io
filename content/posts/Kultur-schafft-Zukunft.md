@@ -4,6 +4,7 @@ date: 2026-08-26
 description: "Was der Künstlerstadt Kalbe e.V. über Kultur, Ehrenamt und neue Perspektiven für den ländlichen Raum zeigt."
 slug: "kultur-schafft-zukunft"
 location: "Kalbe (Milde)"
+author: "Tobias Kremkau"
 rubriken:
   - "Politik und Demokratie"
 tags:
