@@ -29,7 +29,7 @@ Mit der Pandemie wurde mobiles Arbeiten für viele Menschen selbstverständlich.
 
 Die größte Hürde ist dabei selten die Technik. Es fehlt nicht an Laptops, Videokonferenzen oder schnellem Internet. Entscheidend ist die Arbeitskultur. Wo Anwesenheit mehr zählt als Leistung, befürchten Beschäftigte, beim mobilen Arbeiten beruflich unsichtbar zu werden.
 
-Auf dem Land kommt ein strukturelles Problem hinzu: Die potenziellen Nutzer*innen verteilen sich über eine große Fläche. Was in der Stadt mit einem kleinen Einzugsradius funktioniert, lässt sich nicht einfach verkleinern und aufs Land übertragen. Aus dem wohnortnahen Arbeitsplatz wird sonst schnell ein zusätzlicher Arbeitsweg. Außerdem verteilt sich die Nachfrage ungleich über die Woche.
+Auf dem Land kommt ein strukturelles Problem hinzu: Die potenziellen Nutzerinnen verteilen sich über eine große Fläche. Was in der Stadt mit einem kleinen Einzugsradius funktioniert, lässt sich nicht einfach verkleinern und aufs Land übertragen. Aus dem wohnortnahen Arbeitsplatz wird sonst schnell ein zusätzlicher Arbeitsweg. Außerdem verteilt sich die Nachfrage ungleich über die Woche.
 
 Deshalb ist ländliches Coworking kein klassisches Immobiliengeschäft. Quadratmeter sind seine Voraussetzung, aber nicht sein Produkt.
 
@@ -50,7 +50,7 @@ Der Erfolg eines MehrWertOrts bemisst sich deshalb nicht nur an Buchungen und Au
 
 ## Menschen beleben Orte
 
-Die wichtigste Arbeit leisten die Menschen, die einen solchen Ort im Alltag tragen. Ihre Aufgabe geht weit über Empfang, Buchungssystem und Kaffeemaschine hinaus. Gute Gastgeber* innen wissen, wer Mitstreiter* innen sucht, wer einen Raum braucht und wer eine Idee hat, aus der ein Projekt werden könnte. Sie schaffen Verbindungen, Vertrauen und Zugehörigkeit.
+Die wichtigste Arbeit leisten die Menschen, die einen solchen Ort im Alltag tragen. Ihre Aufgabe geht weit über Empfang, Buchungssystem und Kaffeemaschine hinaus. Gute Gastgeberinnen wissen, wer Mitstreiterinnen sucht, wer einen Raum braucht und wer eine Idee hat, aus der ein Projekt werden könnte. Sie schaffen Verbindungen, Vertrauen und Zugehörigkeit.
 
 Eine Software kann freie Räume anzeigen und Rechnungen verschicken. Sie kann aber nicht erkennen, welche zwei Menschen sich kennenlernen sollten. Sie merkt auch nicht, wenn sich jemand zurückzieht oder eine vage Idee im richtigen Moment Zuspruch braucht.
 
@@ -89,5 +89,7 @@ Der erste Schritt zu einem MehrWertOrt ist deshalb nicht die Suche nach einer Im
 Ich denke dabei wieder an die Lastenräder in Frankfurt (Oder). Sie standen nicht im Coworking-Space, weil sie zu seinem ursprünglichen Geschäftsmodell gehörten. Sie standen dort, weil Menschen dem Ort zutrauten, eine Idee aufzunehmen und ihr Sichtbarkeit zu geben.
 
 Ein Coworking-Space vermietet Arbeitsplätze. Ein MehrWertOrt schafft Möglichkeiten. Ob daraus ein lebendiger Ort wird, entscheidet sich nicht an der Zahl seiner Schreibtische, sondern daran, welchen Ideen und welchen Menschen er ein Zuhause gibt.
+<hr>
+*Hinweis: Eine ausführlichere Fassung dieses Beitrags ist als Essay im monatlichen <a href="[https://example.com](https://coworkland-newsletter.getresponsewebsite.com/)" target="_blank" rel="noopener noreferrer">Newsletter „Bigger Picture“ der CoWorkLand eG</a> erschienen, den ich verfasse. Sämtliche redaktionellen Grafiken und Illustrationen wurden mithilfe generativer KI erstellt. Auswahl, Bearbeitung und redaktionelle Verantwortung lagen bei mir.*
 
-*Hinweis: Eine ausführlichere Fassung dieses Beitrags ist als Essay im Newsletter „Bigger Picture“ der CoWorkLand eG erschienen, den ich einmal im Monat verfasse.*
+
